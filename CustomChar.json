@@ -1,1 +1,17 @@
-
+{
+    "PlayerPermission": {
+        "Capsmongy": {
+            "Tier": 1000
+        },
+        "k00KIe": {
+            "Tier": 1000
+        }
+    },
+    "Characters": {
+        "Gojo": {
+            "Tier": 1,
+            "Permission": [],
+            "ImageID": 103953194753301
+        }
+    }
+}
