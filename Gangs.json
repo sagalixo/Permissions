@@ -2,6 +2,7 @@
   "33284171": {
     "Name": "Luas Superiores",
     "Health": 50000,
+    "MaxAbilities": 10,
     "Itens": [
       { "Nome": "PisaoLuas" },
       { 
