@@ -15,5 +15,23 @@
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
     }
+  },
+
+   "34271955": {
+    "Name": "Os Malocas",
+    "Health": 50000,
+    "Itens": [
+      { "Nome": "PisaoLuas" },
+      { 
+        "Nome": "DoubleJump", 
+        "Ignore": "true", 
+        "Attributes": { "Height": 120 }
+      }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+    }
   }
 }
