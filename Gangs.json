@@ -7,7 +7,7 @@
       { 
         "Nome": "DoubleJump", 
         "Ignore": "true", 
-        "Attributes": { "Height": 150 }
+        "Attributes": { "Height": 120 }
       }
     ],
     "Colors": {
