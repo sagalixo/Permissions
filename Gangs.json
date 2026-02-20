@@ -2,7 +2,14 @@
   "33284171": {
     "Name": "Luas Superiores",
     "Health": 50000,
-    "Itens": [{"Nome": "PisaoLuas"}, {"Nome": "DoubleJump", "Ignore": "true"}],
+    "Itens": [
+      { "Nome": "PisaoLuas" },
+      { 
+        "Nome": "DoubleJump", 
+        "Ignore": "true", 
+        "Attributes": { "Height": 150 }
+      }
+    ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
