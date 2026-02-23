@@ -5,6 +5,7 @@
     "MaxAbilities": 10,
     "Itens": [
       { "Nome": "PisaoLuas" },
+      { "Nome": "TwoPerson" },
       { 
         "Nome": "DoubleJump", 
         "Ignore": "true", 
