@@ -6,6 +6,7 @@
     "Itens": [
       { "Nome": "PisaoLuas" },
       { "Nome": "TwoPerson" },
+      { "Nome": "Flashstep" },
       { "Nome": "Colateral", "Attributes": {"Strength":  65} },
       { 
         "Nome": "DoubleJump", 
