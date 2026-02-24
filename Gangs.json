@@ -6,10 +6,11 @@
     "Itens": [
       { "Nome": "PisaoLuas" },
       { "Nome": "TwoPerson" },
+      { "Nome": "Colateral", "Attributes": {"Strength":  65} },
       { 
         "Nome": "DoubleJump", 
         "Ignore": "true", 
-        "Attributes": { "Height": 135 }
+        "Attributes": { "Height": 110 }
       }
     ],
     "Colors": {
