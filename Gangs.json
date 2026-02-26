@@ -5,6 +5,7 @@
     "MaxAbilities": 10,
     "Itens": [
       { "Nome": "PisaoLuas" },
+      { "Nome": "BloodTwister" },
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
