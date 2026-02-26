@@ -5,6 +5,10 @@
     "MaxAbilities": 10,
     "Itens": [
       { "Nome": "PisaoLuas" },
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "CorteCircular" },
       { "Nome": "TwoPerson" },
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
