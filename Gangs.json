@@ -5,7 +5,8 @@
     "MaxAbilities": 10,
     "Itens": [
       { "Nome": "PisaoLuas" },
-      { "Nome": "BloodTwister" },
+      { "Nome": "SlayerMark" },
+      { "Nome": "MundoTransparente" },
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
