@@ -6,7 +6,6 @@
     "Itens": [
       { "Nome": "PisaoLuas" },
       { "Nome": "SlayerMark" },
-      { "Nome": "MundoTransparente" },
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
@@ -14,6 +13,8 @@
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
       { "Nome": "Colateral" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Susanoo" },
       { "Nome": "Raio" },
       { 
         "Nome": "DoubleJump", 
@@ -34,6 +35,11 @@
     "MaxAbilities": 5,
     "Itens": [
       { "Nome": "Kokusen" },
+      { "Nome": "Raio" },
+      { "Nome": "Rasteira" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Susanoo" },
       { 
         "Nome": "DoubleJump", 
         "Ignore": "true", 
