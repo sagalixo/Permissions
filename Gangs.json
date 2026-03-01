@@ -30,6 +30,26 @@
     }
   },
 
+  "33284171": {
+    "Name": "Os Hashiras",
+    "Health": 10000,
+    "MaxAbilities": 5,
+    "Itens": [
+      { "Nome": "SlayerMark" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "CorteCircular" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Raio" },
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [0, 0, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [0, 0, 255] }
+    }
+  },
+
   "35670782": {
     "Name": "Disorder Calamity",
     "Health": 10000,
