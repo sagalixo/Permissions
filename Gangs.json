@@ -17,7 +17,7 @@
       { "Nome": "Colateral" },
       { "Nome": "Rinnegan" },
       { "Nome": "Susanoo" },
-      { "Nome": "Raio" },
+      { "Nome": "Raio" }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -60,7 +60,7 @@
       { "Nome": "Colateral" },
       { "Nome": "Bang" },
       { "Nome": "Rinnegan" },
-      { "Nome": "Susanoo" },
+      { "Nome": "Susanoo" }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [243, 153, 255] },
