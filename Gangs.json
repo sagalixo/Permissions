@@ -19,11 +19,6 @@
       { "Nome": "Rinnegan" },
       { "Nome": "Susanoo" },
       { "Nome": "Raio" },
-      { 
-        "Nome": "DoubleJump", 
-        "Ignore": "true", 
-        "Attributes": { "Height": 110 }
-      }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -67,11 +62,6 @@
       { "Nome": "Bang" },
       { "Nome": "Rinnegan" },
       { "Nome": "Susanoo" },
-      { 
-        "Nome": "DoubleJump", 
-        "Ignore": "true", 
-        "Attributes": { "Height": 90 }
-      }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [243, 153, 255] },
