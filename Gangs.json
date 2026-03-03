@@ -5,18 +5,13 @@
     "MaxAbilities": 10,
     "Itens": [
       { "Nome": "PisaoLuas" },
-      { "Nome": "SlayerMark" },
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
-      { "Nome": "Dismantle" },
-      { "Nome": "CorteCircular" },
       { "Nome": "Bang" },
       { "Nome": "The Real Esfere" },
       { "Nome": "Supernova" },
       { "Nome": "Colateral" },
-      { "Nome": "Rinnegan" },
-      { "Nome": "Susanoo" },
       { "Nome": "Raio" }
     ],
     "Colors": {
@@ -35,8 +30,6 @@
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
       { "Nome": "CorteCircular" },
-      { "Nome": "Rinnegan" },
-      { "Nome": "Susanoo" },
       { "Nome": "Raio" }
     ],
     "Colors": {
@@ -56,11 +49,8 @@
       { "Nome": "Rasteira" },
       { "Nome": "Dismantle" },
       { "Nome": "ChuteDeFogo" },
-      { "Nome": "God Slicer" },
       { "Nome": "Colateral" },
-      { "Nome": "Bang" },
-      { "Nome": "Rinnegan" },
-      { "Nome": "Susanoo" }
+      { "Nome": "Bang" }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [243, 153, 255] },
