@@ -9,6 +9,8 @@
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
       { "Nome": "Bang" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Susanoo" },
       { "Nome": "The Real Esfere" },
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
@@ -31,6 +33,7 @@
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
       { "Nome": "CorteCircular" },
+      { "Nome": "CorteDoSol" },
       { "Nome": "Raio" }
     ],
     "Colors": {
