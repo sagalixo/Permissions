@@ -9,7 +9,7 @@
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
       { "Nome": "Bang" },
-      { "Nome": "Rinnegan" },
+      { "Nome": "Rinnegan", "Attributes": {"Range": 65} },
       { "Nome": "Susanoo" },
       { "Nome": "The Real Esfere" },
       { "Nome": "CorteDoSol" },
