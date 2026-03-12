@@ -65,6 +65,24 @@
     }
   },
 
+  "35283892": {
+    "Name": "World Governnament",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Raio" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [153, 255, 204] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [153, 255, 204] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [153, 255, 204] }
+    }
+  },
+
   "35670782": {
     "Name": "Disorder Calamity",
     "Health": 10000,
