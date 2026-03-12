@@ -10,7 +10,6 @@
       { "Nome": "Rasteira" },
       { "Nome": "Rinnegan", "Attributes": { "Range": 55, "Strength": 75 } },
       { "Nome": "SusanooEspada" },
-      { "Nome": "ChuteCongelante" },
       { "Nome": "The Real Esfere" },
       { "Nome": "Overdrive" },
       { "Nome": "Flashstep" },
@@ -26,10 +25,28 @@
     }
   },
 
+  "34390641": {
+    "Name": "Hueco Mundo",
+    "Health": 10000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "ChuteCongelante" },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 30 } },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+    }
+  },
+
   "825609349": {
     "Name": "Os Hashiras",
     "Health": 10000,
-    "MaxAbilities": 5,
     "Itens": [
       { "Nome": "SlayerMark" },
       { "Nome": "ChuteDeFogo" },
@@ -87,7 +104,6 @@
   "35670782": {
     "Name": "Disorder Calamity",
     "Health": 10000,
-    "MaxAbilities": 5,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "Raio" },
