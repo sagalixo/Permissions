@@ -15,7 +15,7 @@
       { "Nome": "Supernova" },
       { "Nome": "Colateral" },
       { "Nome": "Raio" },
-      { "Nome": "DoubleJump", "Ignore": true, "Attributes": { "Height": 120 } }
+      { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
