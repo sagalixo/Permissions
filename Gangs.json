@@ -5,9 +5,6 @@
     "MaxAbilities": 10,
     "Itens": [
       { "Nome": "PisaoLuas" },
-      { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
       { "Nome": "Rinnegan", "Attributes": { "Range": 55, "Strength": 75 } },
       { "Nome": "SusanooEspada" },
       { "Nome": "The Real Esfere" },
@@ -15,8 +12,6 @@
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
       { "Nome": "Colateral" },
-      { "Nome": "Bang" },
-      { "Nome": "Raio" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
     ],
     "Colors": {
