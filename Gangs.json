@@ -8,7 +8,7 @@
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
-      { "Nome": "Rinnegan", "Attributes": {"Range": 65, "Strength": 75} },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 65, "Strength": 75 } },
       { "Nome": "SusanooEspada" },
       { "Nome": "The Real Esfere" },
       { "Nome": "CorteDoSol" },
@@ -16,9 +16,8 @@
       { "Nome": "Supernova" },
       { "Nome": "Colateral" },
       { "Nome": "Raio" },
-      { "Nome": "DoubleJump", "Ignore" : true, "Attributes": {
-        "Height": 120
-      }],
+      { "Nome": "DoubleJump", "Ignore": true, "Attributes": { "Height": 120 } }
+    ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -48,7 +47,13 @@
   "755862819": {
     "Name": "Ordem Soviética",
     "Health": 1000,
-    "Itens": [{"Nome": "Kokusen"}, {"Nome": "ChuteDeFogo"}, {"Nome": "Rasteira"}, {"Nome": "Raio"}, {"Nome": "The Real Esfere"}],
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Raio" },
+      { "Nome": "The Real Esfere" }
+    ],
     "Colors": {
       "Nome": { "Texto": [81, 6, 6], "Borda": [176, 157, 48] },
       "Patente": { "Texto": [81, 6, 6], "Borda": [176, 157, 48] },
@@ -75,6 +80,4 @@
       "Team": { "Texto": [0, 0, 0], "Borda": [243, 153, 255] }
     }
   }
-
-  
 }
