@@ -15,6 +15,7 @@
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
       { "Nome": "Colateral" },
+      { "Nome": "Bang" },
       { "Nome": "Raio" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
     ],
