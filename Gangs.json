@@ -11,7 +11,7 @@
       { "Nome": "Rinnegan", "Attributes": { "Range": 65, "Strength": 75 } },
       { "Nome": "SusanooEspada" },
       { "Nome": "The Real Esfere" },
-      { "Nome": "CorteDoSol" },
+      { "Nome": "HakiDoRei" },
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
       { "Nome": "Colateral" },
@@ -33,6 +33,7 @@
       { "Nome": "SlayerMark" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
       { "Nome": "CorteCircular" },
       { "Nome": "CorteDoSol" },
       { "Nome": "Raio" }
@@ -52,6 +53,9 @@
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
       { "Nome": "Raio" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "HakiDoRei" },
       { "Nome": "The Real Esfere" }
     ],
     "Colors": {
@@ -71,6 +75,8 @@
       { "Nome": "Rasteira" },
       { "Nome": "Dismantle" },
       { "Nome": "ChuteDeFogo" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
       { "Nome": "Colateral" },
       { "Nome": "Bang" }
     ],
