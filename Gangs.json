@@ -18,8 +18,7 @@
       { "Nome": "Raio" },
       { "Nome": "DoubleJump", "Ignore" : true, "Attributes": {
         "Height": 120
-      }
-    ],
+      }],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
