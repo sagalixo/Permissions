@@ -80,6 +80,24 @@
     }
   },
 
+  "33994083": {
+    "Name": "Valhalla",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Raio" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+    ],
+    "Colors": {
+      "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] }
+    }
+  },
+
   "35283892": {
     "Name": "World Governnament",
     "Health": 1000,
