@@ -89,7 +89,7 @@
       { "Nome": "Rasteira" },
       { "Nome": "Raio" },
       { "Nome": "Susanoo" },
-      { "Nome": "Rinnegan" },
+      { "Nome": "Rinnegan" }
     ],
     "Colors": {
       "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
