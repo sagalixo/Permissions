@@ -11,7 +11,7 @@
       { "Nome": "Overdrive" },
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
-      { "Nome": "Colateral" },
+      { "Nome": "ColateralFP" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
     ],
     "Colors": {
