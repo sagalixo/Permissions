@@ -42,6 +42,24 @@
     }
   },
 
+  "944451740": {
+    "Name": "Clã Uchiha",
+    "Health": 10000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] }
+    }
+  },
+
   "825609349": {
     "Name": "Os Hashiras",
     "Health": 10000,
