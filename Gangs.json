@@ -13,7 +13,6 @@
       { "Nome": "Reikon Susanoo" },
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
-      { "Nome": "ColateralFP" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 90 } }
     ],
     "Colors": {
