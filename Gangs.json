@@ -5,17 +5,16 @@
     "MaxAbilities": 10,
     "Itens": [
       { "Nome": "PisaoLuas" },
-      { "Nome": "Rinnegan", "Attributes": { "Range": 55, "Strength": 75 } },
-      { "Nome": "SusanooEspada" },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 60, "Strength": 75 } },
       { "Nome": "The Real Esfere" },
       { "Nome": "Overdrive" },
       { "Nome": "Dimensional Pull" },
-      { "Nome": "Susanoo Itachi" },
       { "Nome": "Water Dragon" },
+      { "Nome": "Reikon Susanoo" },
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
       { "Nome": "ColateralFP" },
-      { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
+      { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 90 } }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
@@ -31,10 +30,10 @@
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
-      { "Nome": "SusanooEspada" },
+      { "Nome": "Susanoo Itachi" },
       { "Nome": "ChuteCongelante" },
       { "Nome": "Hadou" },
-      { "Nome": "Rinnegan", "Attributes": { "Range": 30 } },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
       { "Nome": "Raio" }
     ],
     "Colors": {
@@ -146,7 +145,7 @@
       { "Nome": "Rasteira" },
       { "Nome": "Dismantle" },
       { "Nome": "ChuteDeFogo" },
-      { "Nome": "Susanoo" },
+      { "Nome": "SusanooEspada" },
       { "Nome": "Rinnegan" },
       { "Nome": "Colateral" },
       { "Nome": "Bang" }
