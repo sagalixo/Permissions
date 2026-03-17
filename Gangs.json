@@ -41,6 +41,25 @@
     }
   },
 
+  "11199941": {
+    "Name": "Kanto Manji Gang",
+    "Health": 10000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "ChuteCongelante" },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [246, 227, 227], "Borda": [47, 46, 46] },
+      "Patente": { "Texto": [246, 227, 227], "Borda": [47, 46, 46] },
+      "Team": { "Texto": [246, 227, 227], "Borda": [47, 46, 46] }
+    }
+  },
+
   "944451740": {
     "Name": "Clã Uchiha",
     "Health": 10000,
