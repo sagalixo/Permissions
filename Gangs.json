@@ -5,16 +5,12 @@
     "MaxAbilities": 10,
     "Itens": [
       { "Nome": "PisaoLuas" },
-      { "Nome": "Rinnegan", "Attributes": { "Range": 60, "Strength": 75 } },
       { "Nome": "The Real Esfere" },
       { "Nome": "Overdrive" },
       { "Nome": "Dimensional Pull" },
-      { "Nome": "Water Dragon" },
       { "Nome": "Ice Paradise" },
       { "Nome": "Reikon Susanoo" },
-      { "Nome": "Dirty Flag" },
       { "Nome": "Flashstep" },
-      { "Nome": "Susanoo Skeleton" },
       { "Nome": "Supernova" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 90 } }
     ],
@@ -72,6 +68,7 @@
       { "Nome": "Rasteira" },
       { "Nome": "Susanoo" },
       { "Nome": "CorteCircular" },
+      { "Nome": "Water Dragon" },
       { "Nome": "CorteDoSol" },
       { "Nome": "Raio" }
     ],
