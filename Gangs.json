@@ -14,6 +14,7 @@
       { "Nome": "Reikon Susanoo" },
       { "Nome": "Dirty Flag" },
       { "Nome": "Flashstep" },
+      { "Nome": "Susanoo Skeleton" },
       { "Nome": "Supernova" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 90 } }
     ],
@@ -147,6 +148,7 @@
       { "Nome": "Dismantle" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "SusanooEspada" },
+      { "Nome": "Dirty Flag" },
       { "Nome": "Rinnegan" },
       { "Nome": "Colateral" },
       { "Nome": "Bang" }
