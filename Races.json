@@ -1,0 +1,12 @@
+{
+  "Hakaishin": {
+    "Type": "Group",
+    "GroupID": 35670782
+  },
+  "Vampire": {
+    "Type": "Permission",
+    "Permission": [
+      1449978472
+    ]
+  },
+}
