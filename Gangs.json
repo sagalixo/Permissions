@@ -23,7 +23,7 @@
 
   "34390641": {
     "Name": "Hueco Mundo",
-    "Health": 10000,
+    "Health": 35000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
@@ -153,7 +153,7 @@
     }
   },
 
-  "35670782": {
+  "34271955": {
     "Name": "Disorder Calamity",
     "Health": 10000,
     "Itens": [
