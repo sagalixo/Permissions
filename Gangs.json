@@ -60,6 +60,25 @@
     }
   },
 
+  "32325896": {
+    "Name": "Tokyo Manji Gang",
+    "Health": 10000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "ChuteCongelante" },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
+    }
+  },
+
   "944451740": {
     "Name": "Clã Uchiha",
     "Health": 10000,
