@@ -32,8 +32,8 @@
   },
 
   "11199941": {
-    "Name": "Kanto Manji Gang",
-    "Health": 10000,
+    "Name": "Máfia da Passione",
+    "Health": 5000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
