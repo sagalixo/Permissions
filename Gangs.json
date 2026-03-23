@@ -14,11 +14,6 @@
       { "Nome": "Supernova" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 90 } }
     ],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] }
-    }
   },
 
   "34390641": {
