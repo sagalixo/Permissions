@@ -69,6 +69,25 @@
     }
   },
 
+  "515674220": {
+    "Name": "Tokyo Manji Gang",
+    "Health": 10000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "ChuteCongelante" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+    }
+  },
+  
   "944451740": {
     "Name": "Clã Uchiha",
     "Health": 10000,
@@ -127,7 +146,7 @@
   },
 
   "33994083": {
-    "Name": "Valhalla",
+    "Name": "The Sith Imperium",
     "Health": 1000,
     "Itens": [
       { "Nome": "Kokusen" },
