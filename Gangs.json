@@ -32,7 +32,7 @@
   },
 
   "11199941": {
-    "Name": "Máfia da Passione",
+    "Name": "Kanto Manji Gang",
     "Health": 5000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -70,7 +70,7 @@
   },
 
   "515674220": {
-    "Name": "Tokyo Manji Gang",
+    "Name": "Máfia da Passione",
     "Health": 10000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -82,9 +82,9 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+      "Team": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] }
     }
   },
   
