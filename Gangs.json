@@ -13,7 +13,7 @@
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 90 } }
-    ],
+    ]
   },
 
   "34390641": {
@@ -28,12 +28,7 @@
       { "Nome": "Hadou" },
       { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
       { "Nome": "Raio" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
-    }
+    ]
   },
 
   "11199941": {
