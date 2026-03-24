@@ -1,0 +1,21 @@
+{
+  "PlayerPermission": {
+    "Sagalixo": {"PlayerTier": 1000},
+    "Fonojonzo": {"PlayerTier": 1000},
+    "do_nopp": {"PlayerTier": 1000},
+    "Mittskiim": {"PlayerTier": 1000},
+    "zkywss": {"PlayerTier": 1000},
+    "Dark_shadow3251": {"PlayerTier": 100},
+    "Gustavo2011353": {"PlayerTier": 100},
+    "guibrosss": {"PlayerTier": 1},
+    "BrNoTrack": {"PlayerTier": 1}
+  },
+
+  "Character": {
+    "Virgil": {
+      "Tier": 100,
+      "Permission": {},
+      "Image": 0
+    }
+  }
+}
