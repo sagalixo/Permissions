@@ -4,10 +4,7 @@
     "GroupID": 35670782
   },
   "Cell": {
-    "Type": "Permission",
-    "Permission": [
-      1449978472,
-      5111464960
-    ]
+    "Type": "Group",
+    "GroupID": 853849599
   }
 }
