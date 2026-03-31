@@ -50,6 +50,25 @@
     }
   },
 
+  "33656216": {
+    "Name": "Blake Association",
+    "Health": 5000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "ChuteCongelante" },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [255, 255, 255], "Borda": [232, 99, 255] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [232, 99, 255] },
+      "Team": { "Texto": [255, 255, 255], "Borda": [232, 99, 255] }
+    }
+  },
+
   "32325896": {
     "Name": "Tokyo Manji Gang",
     "Health": 10000,
