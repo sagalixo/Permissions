@@ -9,17 +9,23 @@
     "I3_NoPrime": {"PlayerTier": 500},
     "Dark_shadow3251": {"PlayerTier": 500},
     "Gustavo2011353": {"PlayerTier": 100},
-    "guibrosss": {"PlayerTier": 10},
+    "guibrosss": {"PlayerTier": 100},
     "BrNoTrack": {"PlayerTier": 1}
   },
 
   "Character": {
+
+    "Vergil": {
+      "Tier": 1000,
+      "Permission": {}
+    },
+    
     "Sukuna": {
       "Tier": 100,
       "Permission": {}
     },
     
-    "Vergil": {
+    "Rimuru": {
       "Tier": 1,
       "Permission": {}
     },
