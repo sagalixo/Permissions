@@ -13,8 +13,13 @@
   },
 
   "Character": {
-    "Vergil": {
+    "Sukuna": {
       "Tier": 100,
+      "Permission": {}
+    },
+    
+    "Vergil": {
+      "Tier": 1,
       "Permission": {}
     },
 
