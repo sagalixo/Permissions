@@ -69,6 +69,43 @@
     }
   },
 
+  "34246662": {
+    "Name": "Seven Deadly Sins",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "ChuteCongelante" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [82, 28, 176] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [82, 28, 176] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [82, 28, 176] }
+    }
+  },
+
+  "33963874": {
+    "Name": "Eternity Order",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "HakiDoRei" },
+      { "Nome": "ChuteCongelante" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [227, 196, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [227, 196, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [227, 196, 255] }
+    }
+  },
+
   "32325896": {
     "Name": "Tokyo Manji Gang",
     "Health": 10000,
