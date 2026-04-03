@@ -16,6 +16,11 @@
     "Vergil": {
       "Tier": 100,
       "Permission": {}
+    },
+
+    "Meliodas": {
+      "Tier": 1,
+      "Permission": {}
     }
   }
 }
