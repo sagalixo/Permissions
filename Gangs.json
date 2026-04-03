@@ -191,7 +191,8 @@
       { "Nome": "Rasteira" },
       { "Nome": "Raio" },
       { "Nome": "Susanoo" },
-      { "Nome": "Rinnegan" }
+      { "Nome": "Rinnegan" },
+      { "Nome": "Water Dragon" }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [153, 255, 204] },
