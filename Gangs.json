@@ -44,9 +44,9 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [246, 227, 227], "Borda": [47, 46, 46] },
-      "Patente": { "Texto": [246, 227, 227], "Borda": [47, 46, 46] },
-      "Team": { "Texto": [246, 227, 227], "Borda": [47, 46, 46] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [89, 11, 11] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [89, 11, 11] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [89, 11, 11] }
     }
   },
 
@@ -232,9 +232,9 @@
       { "Nome": "Water Dragon" }
     ],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [153, 255, 204] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [153, 255, 204] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [153, 255, 204] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [124, 175, 172] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [124, 175, 172] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [124, 175, 172] }
     }
   },
 
