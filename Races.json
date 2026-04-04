@@ -18,5 +18,14 @@
   "Zenin Heavenly Restriction": {
      "Type": "Group",
      "GroupID": 33284171
+  },
+  "Demonio": {
+     "Type": "Permission",
+     "Permission": [
+       4778784214,
+       1449978472,
+       1870366175,
+       5111464960
+     ]
   }
 }
