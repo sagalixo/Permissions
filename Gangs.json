@@ -40,7 +40,7 @@
       { "Nome": "Rasteira" },
       { "Nome": "SusanooEspada" },
       { "Nome": "ChuteCongelante" },
-      { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 35 } },
       { "Nome": "Raio" }
     ],
     "Colors": {
@@ -248,7 +248,6 @@
       { "Nome": "Dismantle" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "SusanooEspada" },
-      { "Nome": "Dirty Flag" },
       { "Nome": "Rinnegan" },
       { "Nome": "Colateral" },
       { "Nome": "Void Gate" },
