@@ -21,9 +21,9 @@
   },
   "Vasto Lord": {
      "Type": "Group",
-     "GroupID": 16143549
+     "GroupID": 
   },
-  "Demonio": {
+  ".": {
      "Type": "Permission",
      "Permission": [
        4778784214,
@@ -32,5 +32,8 @@
        5111464960,
        1569341667
      ]
-  }
+  },
+  "Oni": {
+    "Type": "Group",
+    "GroupID": 16143549
 }
