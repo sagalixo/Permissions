@@ -20,8 +20,13 @@
      "GroupID": 33284171
   },
   "Vasto Lord": {
-     "Type": "Group",
-     "GroupID": 16143549
+     "Type": "Permission",
+    "Permission": [
+      1569341667,
+      2731128149,
+      1449978472
+    ]
+    
   },
   "Oni": {
      "Type": "Permission",
