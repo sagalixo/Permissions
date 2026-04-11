@@ -143,6 +143,60 @@
     }
   },
 
+  "34792528": {
+    "Name": "Bleach Of Shinigami",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 102, 242] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 102, 242] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 102, 242] }
+    }
+  },
+
+  "32419373": {
+    "Name": "龍 ✦ Super Novas ✦ 龍",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [255, 255, 255], "Borda": [255, 20, 235] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [255, 20, 235] },
+      "Team": { "Texto": [255, 255, 255], "Borda": [255, 20, 235] }
+    }
+  },
+
+  "35338244": {
+    "Name": "Amendobobos",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+    }
+  },
+
   "825609349": {
     "Name": "Os Hashiras",
     "Health": 10000,
