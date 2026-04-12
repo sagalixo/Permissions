@@ -29,6 +29,13 @@
     ]
     
   },
+    "Lich": {
+     "Type": "Permission",
+    "Permission": [
+      205979288,
+    ]
+    
+  },
   "Oni": {
      "Type": "Permission",
      "Permission": [
