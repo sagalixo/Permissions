@@ -21,6 +21,7 @@
     "Health": 75000,
     "MaxAbilities": 10,
     "Itens": [
+      { "Nome": "PisaoLuas" },
       { "Nome": "Overdrive" },
       { "Nome": "DemonBash" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
