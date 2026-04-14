@@ -4,7 +4,7 @@
     "Health": 50000,
     "MaxAbilities": 5,
     "Itens": [
-      { "Nome": "PisaoLuas" },
+      { "Nome": "Pisao" },
       { "Nome": "The Real Esfere" },
       { "Nome": "Overdrive" },
       { "Nome": "Dimensional Pull" },
@@ -21,7 +21,11 @@
     "Health": 75000,
     "MaxAbilities": 10,
     "Itens": [
-      { "Nome": "PisaoLuas" },
+      { "Nome": "Pisao" },
+      { "Nome": "Ice Paradise" },
+      { "Nome": "Flashstep" },
+      { "Nome": "Supernova" },
+      { "Nome": "The Real Esfere" },
       { "Nome": "Overdrive" },
       { "Nome": "DemonBash" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
