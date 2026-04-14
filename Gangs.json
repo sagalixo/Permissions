@@ -1,7 +1,7 @@
 {
   "33284171": {
     "Name": "Luas Superiores",
-    "Health": 75000,
+    "Health": 50000,
     "MaxAbilities": 5,
     "Itens": [
       { "Nome": "PisaoLuas" },
@@ -13,6 +13,16 @@
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 90 } }
+    ]
+  },
+  
+  "1073066789": {
+    "Name": "Singularity Assoc.",
+    "Health": 75000,
+    "MaxAbilities": 10,
+    "Itens": [
+      { "Nome": "Overdrive" },
+      { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
     ]
   },
 
