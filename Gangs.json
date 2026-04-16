@@ -1,21 +1,5 @@
 {
-  "33284171": {
-    "Name": "Luas Superiores",
-    "Health": 50000,
-    "MaxAbilities": 5,
-    "Itens": [
-      { "Nome": "Pisao" },
-      { "Nome": "The Real Esfere" },
-      { "Nome": "Overdrive" },
-      { "Nome": "Dimensional Pull" },
-      { "Nome": "Ice Paradise" },
-      { "Nome": "Reikon Susanoo" },
-      { "Nome": "Flashstep" },
-      { "Nome": "Supernova" },
-      { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 90 } }
-    ]
-  },
-  
+ 
   "1073066789": {
     "Name": "Singularity Assoc.",
     "Health": 75000,
