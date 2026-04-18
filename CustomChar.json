@@ -26,11 +26,18 @@
       "Permission": {}
     },
 
+
+    "GojoTeen": {
+      "Tier": 500,
+      "Permission": {}
+    },
+
     "Jotaro": {
       "Tier": 10,
       "Permission": {}
     },
-    
+
+
     "Rimuru": {
       "Tier": 1,
       "Permission": [1968730428, 8674166330, 2636678929]
