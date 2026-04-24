@@ -26,6 +26,11 @@
       "Permission" : {}
     },
 
+    "Johnny" : {
+      "Tier": 1000,
+      "Permission": {}
+    },
+
       "DioOverHeaven": {
       "Tier": 1000,
       "Permission": [3337736146]
