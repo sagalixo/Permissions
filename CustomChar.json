@@ -9,8 +9,7 @@
     "Dark_shadow3251": {"PlayerTier": 500},
     "Gustavo2011353": {"PlayerTier": 100},
     "guibrosss": {"PlayerTier": 100},
-    "BrNoTrack": {"PlayerTier": 1},
-    "ZzLuckZzx": {"PlayerTier": 1}
+    "BrNoTrack": {"PlayerTier": 1}
   },
 
   "Character": {
@@ -69,7 +68,7 @@
 
     "Meliodas": {
       "Tier": 1,
-      "Permission": [3434085675]
+      "Permission": [3434085675, 8674166330]
     }
   }
 }
