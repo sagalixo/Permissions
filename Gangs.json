@@ -75,6 +75,21 @@
     }
   },
 
+  "851244261": {
+    "Name": "Os Ditadores Do Cuzinho",
+    "Health": 5000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" }
+
+    ],
+    "Colors": {
+      "Nome": { "Texto": [90, 0, 120], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [90, 0, 120], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [90, 0, 120], "Borda": [0, 0, 0] }
+    }
+  },
+
     "34894857": {
     "Name": "NoCracK",
     "Health": 5000,
