@@ -3,12 +3,12 @@
     {
       "UserId": 5625814242,
       "Type": "HardBan",
-      "Reason": "Violação severa das regras"
+      "Reason": "carente usando exploit"
     },
     {
       "UserId": 9513972224,
       "Type": "HardBan",
-      "Reason": "Violação severa das regras"
+      "Reason": "carente usando exploit"
     }
   ]
 }
