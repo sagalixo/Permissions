@@ -31,7 +31,7 @@
 
       "DioOverHeaven": {
       "Tier": 1000,
-      "Permission": [3337736146, 3421576235]
+      "Permission": [3337736146]
     },
 
       "Kokushibo": {
@@ -73,7 +73,7 @@
 
     "Meliodas": {
       "Tier": 1,
-      "Permission": [3434085675, 8674166330]
+      "Permission": [3434085675, 8674166330, 3421576235]
     }
   }
 }
