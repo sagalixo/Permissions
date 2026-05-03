@@ -30,36 +30,7 @@
       { "Nome": "Raio" }
     ]
   },
-
-    "35951448": {
-    "Name": "Family 12",
-    "Health": 5000,
-    "Itens": [
-      { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" }
-
-    ]
-  },
-
-  "11199941": {
-    "Name": "Kanto Manji Gang",
-    "Health": 5000,
-    "Itens": [
-      { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
-      { "Nome": "SusanooEspada" },
-      { "Nome": "ChuteCongelante" },
-      { "Nome": "Rinnegan", "Attributes": { "Range": 35 } },
-      { "Nome": "Raio" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [89, 11, 11] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [89, 11, 11] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [89, 11, 11] }
-    }
-  },
-
+ 
   "147416291": {
     "Name": "1337 | Society",
     "Health": 5000,
