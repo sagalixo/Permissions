@@ -339,7 +339,7 @@
   },
 
   "34271955": {
-    "Name": "Disorder Calamity",
+    "Name": "Syndicate Reapers",
     "Health": 10000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -352,11 +352,6 @@
       { "Nome": "Colateral" },
       { "Nome": "Void Gate" },
       { "Nome": "Bang" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [243, 153, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [243, 153, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [243, 153, 255] }
-    }
+    ]
   }
 }
