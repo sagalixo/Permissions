@@ -47,7 +47,7 @@
   },
 
   "851244261": {
-    "Name": "Os Ditadores Do Cuzinho",
+    "Name": "Os Ditadores",
     "Health": 5000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -342,8 +342,9 @@
     "Name": "Syndicate Reapers",
     "Health": 10000,
     "Itens": [
-      { "Nome": "Kokusen" },
+      { "Nome": "CorteCircular" },
       { "Nome": "Raio" },
+      { "Nome": "SlayerMark" },
       { "Nome": "Rasteira" },
       { "Nome": "Dismantle" },
       { "Nome": "ChuteDeFogo" },
