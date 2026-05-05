@@ -2,13 +2,13 @@
   "PlayerPermission": {
     "Sagalixo": {"PlayerTier": 1000},
     "Fonojonzo": {"PlayerTier": 1000},
-    "do_nopp": {"PlayerTier": 1000},
     "zkywss": {"PlayerTier": 1000},
     "I3_NoPrime": {"PlayerTier": 1000},
     "Mittskiim": {"PlayerTier": 750},
     "Dark_shadow3251": {"PlayerTier": 500},
     "Gustavo2011353": {"PlayerTier": 100},
     "guibrosss": {"PlayerTier": 100},
+    "do_nopp": {"PlayerTier": 100},
     "BrNoTrack": {"PlayerTier": 1}
   },
 
