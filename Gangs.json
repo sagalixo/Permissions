@@ -188,6 +188,78 @@
     }
   },
 
+ "35716048": {
+    "Name": "Império Obscuro",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [201, 162, 39], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [106, 13, 173], "Borda": [46, 26, 71] },
+      "Team": { "Texto": [176, 141, 87], "Borda": [26, 16, 37] }
+    }
+  },
+
+ "537506790": {
+    "Name": "Invencibles",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [153, 28, 255], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [255, 255, 255], "Borda": [193, 117, 255] }
+    }
+  },
+
+ "829692947": {
+    "Name": "Solo Leveling Gang",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [84, 0, 153], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [84, 0, 153], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [84, 0, 153], "Borda": [0, 0, 0] }
+    }
+  },
+
+ "33524892": {
+    "Name": "Psikolera",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [255, 0, 21], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [255, 0, 21], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [255, 0, 21], "Borda": [0, 0, 0] }
+    }
+  },
+
   "34792528": {
     "Name": "Bleach Of Shinigami",
     "Health": 1000,
