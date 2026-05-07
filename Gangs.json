@@ -207,6 +207,24 @@
     }
   },
 
+ "8046391": {
+    "Name": "༒︎ 3 Divindades ༒︎",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 0, 0] },
+      "Patente": { "Texto": [245, 233, 0], "Borda": [255, 0, 0] },
+      "Team": { "Texto": [245, 233, 0], "Borda": [0, 0, 0] }
+    }
+  },
+
  "537506790": {
     "Name": "Invencibles",
     "Health": 1000,
