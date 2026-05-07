@@ -336,8 +336,8 @@
   },
 
   "755862819": {
-    "Name": "Ordem Anarquista",
-    "Health": 1000,
+    "Name": "Anarquistas",
+    "Health": 10000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
