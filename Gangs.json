@@ -348,12 +348,7 @@
       { "Nome": "Rinnegan" },
       { "Nome": "HakiDoRei" },
       { "Nome": "The Real Esfere" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [81, 6, 6], "Borda": [176, 157, 48] },
-      "Patente": { "Texto": [81, 6, 6], "Borda": [176, 157, 48] },
-      "Team": { "Texto": [54, 83, 43], "Borda": [81, 6, 6] }
-    }
+    ]
   },
 
   "33994083": {
