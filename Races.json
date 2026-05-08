@@ -16,8 +16,16 @@
     "GroupID": 676025233
   },
   "Zenin Heavenly Restriction": {
-     "Type": "Group",
-     "GroupID": 33284171
+     "Type": "Permission",
+     "Permission": [
+      1569341667,
+      2731128149,
+      1449978472,
+      2579583119,
+      1663412321,
+      5111464960,
+      3447517113
+    ]
   },
   "Vasto Lord": {
     "Type": "Permission",
