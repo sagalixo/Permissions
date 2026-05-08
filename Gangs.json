@@ -10,6 +10,7 @@
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
       { "Nome": "The Real Esfere" },
+      { "Nome": "FP_Colateral" },
       { "Nome": "Overdrive" },
       { "Nome": "DemonBash" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
