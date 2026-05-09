@@ -8,7 +8,7 @@
     "Mittskiim": {"PlayerTier": 750},
     "Dark_shadow3251": {"PlayerTier": 500},
     "guibrosss": {"PlayerTier": 100},
-    "BrNoTrack": {"PlayerTier": 1},
+    "BrNoTrack": {"PlayerTier": 10},
     "Gustavo2011353": {"PlayerTier": 1}
   },
 
@@ -71,12 +71,17 @@
     },
 
     "Jotaro": {
-      "Tier": 10,
+      "Tier": 100,
       "Permission": []
     },
 
 
     "Rimuru": {
+      "Tier": 10,
+      "Permission": [1968730428, 8674166330, 2636678929]
+    },
+
+    "Eren": {
       "Tier": 1,
       "Permission": [1968730428, 8674166330, 2636678929]
     },
