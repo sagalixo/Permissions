@@ -10,6 +10,7 @@
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
       { "Nome": "The Real Esfere" },
+      { "Nome": "FP_Colateral" },
       { "Nome": "Overdrive" },
       { "Nome": "DemonBash" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
@@ -26,6 +27,7 @@
       { "Nome": "Susanoo Skeleton" },
       { "Nome": "ChuteCongelante" },
       { "Nome": "Hadou" },
+      { "Nome": "Lanza del Relámpago" },
       { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
       { "Nome": "Raio" }
     ]
@@ -47,7 +49,7 @@
   },
 
   "851244261": {
-    "Name": "Os Ditadores Do Cuzinho",
+    "Name": "Os Ditadores",
     "Health": 5000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -188,6 +190,96 @@
     }
   },
 
+ "35716048": {
+    "Name": "Yamaguchi Gumi",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [5, 5, 163], "Borda": [73, 128, 158] },
+      "Patente": { "Texto": [5, 5, 163], "Borda": [73, 128, 158] },
+      "Team": { "Texto": [5, 5, 163], "Borda": [73, 128, 158] }
+    }
+  },
+
+ "8046391": {
+    "Name": "༒︎ 3 Divindades ༒︎",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 0, 0] },
+      "Patente": { "Texto": [245, 233, 0], "Borda": [255, 0, 0] },
+      "Team": { "Texto": [245, 233, 0], "Borda": [0, 0, 0] }
+    }
+  },
+
+ "537506790": {
+    "Name": "Invencibles",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [153, 28, 255], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [255, 255, 255], "Borda": [193, 117, 255] }
+    }
+  },
+
+ "829692947": {
+    "Name": "Solo Leveling Gang",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [84, 0, 153], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [84, 0, 153], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [84, 0, 153], "Borda": [0, 0, 0] }
+    }
+  },
+
+ "33524892": {
+    "Name": "Psikolera",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [255, 0, 21], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [255, 0, 21], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [255, 0, 21], "Borda": [0, 0, 0] }
+    }
+  },
+
   "34792528": {
     "Name": "Bleach Of Shinigami",
     "Health": 1000,
@@ -264,8 +356,8 @@
   },
 
   "755862819": {
-    "Name": "Ordem Anarquista",
-    "Health": 1000,
+    "Name": "Anarquista",
+    "Health": 10000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
@@ -275,12 +367,7 @@
       { "Nome": "Rinnegan" },
       { "Nome": "HakiDoRei" },
       { "Nome": "The Real Esfere" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [81, 6, 6], "Borda": [176, 157, 48] },
-      "Patente": { "Texto": [81, 6, 6], "Borda": [176, 157, 48] },
-      "Team": { "Texto": [54, 83, 43], "Borda": [81, 6, 6] }
-    }
+    ]
   },
 
   "33994083": {
@@ -342,9 +429,11 @@
     "Name": "Syndicate Reapers",
     "Health": 10000,
     "Itens": [
-      { "Nome": "Kokusen" },
+      { "Nome": "CorteCircular" },
       { "Nome": "Raio" },
+      { "Nome": "SlayerMark" },
       { "Nome": "Rasteira" },
+      { "Nome": "Ceifar" },
       { "Nome": "Dismantle" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "SusanooEspada" },
