@@ -9,6 +9,11 @@
       "UserId": 9513972224,
       "Type": "HardBan",
       "Reason": "carente usando exploit"
+    },
+    {
+       "UserId": 1870366175,
+      "Type": "HardBan",
+      "Reason": "carente usando exploit"
     }
   ]
 }
