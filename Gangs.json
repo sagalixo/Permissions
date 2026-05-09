@@ -191,7 +191,7 @@
   },
 
  "35716048": {
-    "Name": "Império Obscuro",
+    "Name": "Yamaguchi Gumi",
     "Health": 1000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -202,9 +202,9 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [201, 162, 39], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [106, 13, 173], "Borda": [46, 26, 71] },
-      "Team": { "Texto": [176, 141, 87], "Borda": [26, 16, 37] }
+      "Nome": { "Texto": [0, 0, 255], "Borda": [115, 206, 255] },
+      "Patente": { "Texto": [0, 0, 255], "Borda": [115, 206, 255] },
+      "Team": { "Texto": [0, 0, 255], "Borda": [115, 206, 255] }
     }
   },
 
