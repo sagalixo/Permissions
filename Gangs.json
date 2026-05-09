@@ -202,9 +202,9 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [2, 2, 204], "Borda": [73, 128, 158] },
-      "Patente": { "Texto": [2, 2, 204], "Borda": [73, 128, 158] },
-      "Team": { "Texto": [2, 2, 204], "Borda": [73, 128, 158] }
+      "Nome": { "Texto": [5, 5, 163], "Borda": [73, 128, 158] },
+      "Patente": { "Texto": [5, 5, 163], "Borda": [73, 128, 158] },
+      "Team": { "Texto": [5, 5, 163], "Borda": [73, 128, 158] }
     }
   },
 
