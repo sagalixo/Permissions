@@ -58,6 +58,11 @@
       "Tier": 1000,
       "Permission": [5111464960]
     },
+
+      "Giorno": {
+      "Tier": 1000,
+      "Permission": {}
+    },
     
     "Sukuna": {
       "Tier": 100,
