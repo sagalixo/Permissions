@@ -11,6 +11,11 @@
       "Reason": "carente usando exploit"
     },
     {
+      "UserId": 10104315973,
+      "Type": "HardBan",
+      "Reason": "carente usando exploit"
+    },
+    {
        "UserId": 2804493981,
       "Type": "HardBan",
       "Reason": "carente usando exploit"
