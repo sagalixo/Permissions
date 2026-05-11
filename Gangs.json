@@ -191,6 +191,21 @@
     }
   },
 
+  "897710476": {
+    "Name": "Sense Life",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [32, 58, 86], "Borda": [82, 124, 174] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [123, 47, 123], "Borda": [167, 94, 155] }
+    }
+  },
+
  "35716048": {
     "Name": "Yamaguchi Gumi",
     "Health": 1000,
