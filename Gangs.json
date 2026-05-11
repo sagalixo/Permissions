@@ -32,21 +32,6 @@
       { "Nome": "Raio" }
     ]
   },
- 
-  "147416291": {
-    "Name": "1337 | Society",
-    "Health": 5000,
-    "Itens": [
-      { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" }
-
-    ],
-    "Colors": {
-      "Nome": { "Texto": [169,169,169], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [169,169,169], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [169,169,169], "Borda": [0, 0, 0] }
-    }
-  },
 
   "851244261": {
     "Name": "Os Ditadores",
