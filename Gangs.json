@@ -183,7 +183,8 @@
       { "Nome": "Kokusen" },
       { "Nome": "Susanoo" },
       { "Nome": "Raio" },
-      { "Nome": "Rinnegan" }
+      { "Nome": "Rinnegan" },
+      { "Nome": "HakiDoRei" }
     ],
     "Colors": {
       "Nome": { "Texto": [32, 58, 86], "Borda": [82, 124, 174] },
