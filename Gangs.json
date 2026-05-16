@@ -182,6 +182,7 @@
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "Susanoo" },
+      { "Nome": "Raio" },
       { "Nome": "Rinnegan" }
     ],
     "Colors": {
@@ -224,6 +225,24 @@
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 0, 0] },
       "Patente": { "Texto": [245, 233, 0], "Borda": [255, 0, 0] },
       "Team": { "Texto": [245, 233, 0], "Borda": [0, 0, 0] }
+    }
+  },
+
+ "1009172145": {
+    "Name": "Goten",
+    "Health": 1000,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [4, 0, 122] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [4, 0, 122] }
     }
   },
 
