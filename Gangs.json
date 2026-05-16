@@ -100,24 +100,6 @@
     }
   },
 
-  "33963874": {
-    "Name": "Eternity Order",
-    "Health": 1000,
-    "Itens": [
-      { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
-      { "Nome": "HakiDoRei" },
-      { "Nome": "ChuteCongelante" },
-      { "Nome": "Raio" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [227, 196, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [227, 196, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [227, 196, 255] }
-    }
-  },
-
   "32325896": {
     "Name": "Tokyo Manji Gang",
     "Health": 10000,
@@ -184,7 +166,11 @@
       { "Nome": "Susanoo" },
       { "Nome": "Raio" },
       { "Nome": "Rinnegan" },
-      { "Nome": "HakiDoRei" }
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "HakiDoRei" },
+      { "Nome": "ChuteCongelante" },
+      { "Nome": "Raio" }
     ],
     "Colors": {
       "Nome": { "Texto": [32, 58, 86], "Borda": [82, 124, 174] },
