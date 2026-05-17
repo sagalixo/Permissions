@@ -345,7 +345,7 @@
 
   "755862819": {
     "Name": "Pacifistas",
-    "Health": 10000,
+    "Health": 60000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome":"ChuteCongelante"},
