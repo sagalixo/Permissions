@@ -15,6 +15,10 @@
     "Type": "Group",
     "GroupID": 676025233
   },
+  "Player": {
+    "Type": "Group",
+    "GroupID": 228060514
+  },
   "Zenin Heavenly Restriction": {
      "Type": "Permission",
      "Permission": [
