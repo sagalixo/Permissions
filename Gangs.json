@@ -345,10 +345,9 @@
 
   "755862819": {
     "Name": "Pacifistas",
-    "Health": 60000,
+    "Health": 75000,
     "MaxAbilities": 8,
     "Itens": [
-      { "Nome": "Kokusen" },
       { "Nome":"ChuteCongelante"},
       { "Nome":"ChuteDeFogo"},
       { "Nome":"Bang"},
