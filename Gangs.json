@@ -348,16 +348,17 @@
     "Health": 10000,
     "Itens": [
       { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
-      { "Nome": "Raio" },
-      { "Nome": "Susanoo Skeleton" },
-      { "Nome": "Rinnegan" },
-      { "Nome": "HakiDoRei" },
-      { "Nome": "The Real Esfere" },
-      {"Nome": "Overdrive" },
-      { "Nome":"Lanza del Relámpago" },
-      { "Nome":"Supernova"}
+      { "Nome":"ChuteCongelante"},
+      { "Nome":"ChuteDeFogo"},
+      { "Nome":"Bang"},
+      { "Nome":"Pisao"},
+      { "Nome":"Susanoo Skeleton"},
+      { "Nome":"SusanooEspada"},
+      { "Nome":"Supernova"},
+      { "Nome":"Overdrive"},
+      { "Nome":"Void Gate"},
+      { "Nome":"Flashstep"},
+      { "Nome":"DoubleJump"}
     ]
   },
 
