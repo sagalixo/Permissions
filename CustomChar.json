@@ -10,7 +10,8 @@
     "Dark_shadow3251": {"PlayerTier": 500},
     "guibrosss": {"PlayerTier": 100},
     "BrNoTrack": {"PlayerTier": 100},
-    "Gustavo2011353": {"PlayerTier": 1}
+    "Gustavo2011353": {"PlayerTier": 1},
+    "ZE_GOTINHA893": {"PlayerTier": 1}
   },
 
   "Character": {
@@ -37,7 +38,7 @@
 
       "DioOverHeaven": {
       "Tier": 1000,
-      "Permission": [3337736146]
+      "Permission": [3337736146,724152595]
     },
 
        "Baki": {
@@ -99,7 +100,7 @@
 
     "Meliodas": {
       "Tier": 1,
-      "Permission": [3434085675, 8674166330, 3421576235, 4005875136]
+      "Permission": [3434085675, 8674166330, 3421576235, 4005875136, 6046496733]
     }
   }
 }
