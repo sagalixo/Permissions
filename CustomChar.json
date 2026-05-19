@@ -23,8 +23,8 @@
     },
 
       "Douma": {
-      "Tier": 1000,
-      "Permission": {}
+      "Tier": 5000,
+      "Permission": [1663412321,4005875136 ]
     },
 
     "Aizen": {
