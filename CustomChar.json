@@ -22,6 +22,11 @@
       "Permission": [1569341667]
     },
 
+      "Douma": {
+      "Tier": 1000,
+      "Permission": {}
+    },
+
     "Aizen": {
       "Tier": 1000,
       "Permission": [1663412321]
