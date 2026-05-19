@@ -428,7 +428,8 @@
       { "Nome": "Raio" },
       { "Nome": "Susanoo" },
       { "Nome": "Rinnegan" },
-      { "Nome": "Water Dragon" }
+      { "Nome": "Water Dragon" },
+     { "Nome": "Foide de Gelo" }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [124, 175, 172] },
