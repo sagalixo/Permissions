@@ -369,8 +369,6 @@
     "MaxAbilities": 8,
     "Itens": [
       { "Nome":"ChuteCongelante"},
-      { "Nome":"ChuteDeFogo"},
-      { "Nome":"Bang"},
       { "Nome":"Pisao"},
       { "Nome":"Susanoo Skeleton"},
       { "Nome": "Colateral" },
@@ -378,7 +376,6 @@
       { "Nome":"SusanooEspada"},
       { "Nome":"Supernova"},
       { "Nome":"Flashstep"},
-      { "Nome":"DoubleJump"}
     ]
   },
 
