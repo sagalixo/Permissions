@@ -320,8 +320,8 @@
       { "Nome": "Susanoo Skeleton" }
     ],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 102, 242] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [0, 0, 0] },
+      "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [19, 23, 106], "Borda": [0, 0, 0] },
       "Team": { "Texto": [19, 23, 106], "Borda": [0, 0, 0] }
     }
   },
