@@ -368,14 +368,14 @@
     "Health": 75000,
     "MaxAbilities": 8,
     "Itens": [
-      { "Nome":"ChuteCongelante"},
-      { "Nome":"Pisao"},
-      { "Nome":"Susanoo Skeleton"},
-      { "Nome": "Colateral" },
-      { "Nome": "CorteDoSol" },
-      { "Nome":"SusanooEspada"},
-      { "Nome":"Supernova"},
       { "Nome":"Flashstep"},
+      { "Nome":"Foice de Gelo"},
+      { "Nome":"DemonBash"},
+      { "Nome":"Hadou"},
+      { "Nome":"Pisao"},
+      { "Nome":"Thunder Judgment"},
+      { "Nome":"FP_Colateral"},
+      { "Nome":"Ice Paradise"}
     ]
   },
 
