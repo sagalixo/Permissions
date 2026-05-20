@@ -79,10 +79,7 @@
       "Team": { "Texto": [100, 0, 0], "Borda": [0, 0, 0] }
     }
   },
-
-
-
-
+ 
   "33656216": {
     "Name": "Blake Association",
     "Health": 5000,
@@ -157,27 +154,6 @@
       "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
       "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
       "Team": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] }
-    }
-  },
-
-  "897710476": {
-    "Name": "Sense Life",
-    "Health": 1000,
-    "Itens": [
-      { "Nome": "Kokusen" },
-      { "Nome": "Susanoo" },
-      { "Nome": "Raio" },
-      { "Nome": "Rinnegan" },
-      { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
-      { "Nome": "HakiDoRei" },
-      { "Nome": "ChuteCongelante" },
-      { "Nome": "Raio" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [32, 58, 86], "Borda": [82, 124, 174] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [123, 47, 123], "Borda": [167, 94, 155] }
     }
   },
 
@@ -308,7 +284,7 @@
   },
 
   "34792528": {
-    "Name": "Bleach Of Shinigami",
+    "Name": "Real Gan'g",
     "Health": 1000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -320,9 +296,9 @@
       { "Nome": "Susanoo Skeleton" }
     ],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 102, 242] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 102, 242] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 102, 242] }
+      "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [19, 23, 106], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [19, 23, 106], "Borda": [0, 0, 0] }
     }
   },
 
@@ -364,21 +340,21 @@
   },
 
   "755862819": {
-    "Name": "Pacifistas",
+    "Name": "Mafia",
     "Health": 75000,
     "MaxAbilities": 8,
     "Itens": [
-      { "Nome":"ChuteCongelante"},
-      { "Nome":"ChuteDeFogo"},
-      { "Nome":"Bang"},
-      { "Nome":"Pisao"},
-      { "Nome":"Susanoo Skeleton"},
-      { "Nome": "Colateral" },
-      { "Nome": "CorteDoSol" },
-      { "Nome":"SusanooEspada"},
-      { "Nome":"Supernova"},
       { "Nome":"Flashstep"},
-      { "Nome":"DoubleJump"}
+      { "Nome":"Foice de Gelo"},
+      { "Nome":"Ice Paradise"},
+      { "Nome":"Thunder Judgment"},
+      {"Nome":"Colateral"},
+      { "Nome":"Kokusen"},
+      {"Nome":"Raio"},
+      { "Nome":"Pisao"},
+      { "Nome":"DemonBash"},
+      { "Nome":"Susanoo Skeleton"},
+      { "Nome":"CorteCircular"}
     ]
   },
 
