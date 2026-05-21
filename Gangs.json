@@ -147,7 +147,6 @@
       { "Nome": "SusanooEspada" },
       { "Nome": "Rinnegan" },
       { "Nome": "Raio" },
-      { "Nome": "Sharingan" },
       { "Nome": "Fire" }
     ],
     "Colors": {
@@ -176,7 +175,7 @@
   },
 
  "118814446 ": {
-    "Name": "Esquadrão de Caçadores de Onis",
+    "Name": " Slayer Corps",
     "Health": 1000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -187,9 +186,9 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [255, 153, 0], "Borda": [0, 0, 0] },
+      "Nome": { "Texto": [0,0,0], "Borda": [255,255,255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 102, 0] }
     }
   },
 
