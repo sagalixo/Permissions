@@ -382,14 +382,13 @@
     "Name": "World Governnament",
     "Health": 1000,
     "Itens": [
-      { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
       { "Nome": "Raio" },
       { "Nome": "Susanoo" },
       { "Nome": "Rinnegan" },
       { "Nome": "Water Dragon" },
-     { "Nome": "Foice de Gelo" }
+      { "Nome": "Foice de Gelo" }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [124, 175, 172] },
