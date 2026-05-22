@@ -50,21 +50,6 @@
     }
   },
 
-    "34894857": {
-    "Name": "NoCraK",
-    "Health": 5000,
-    "Itens": [
-      { "Nome": "Kokusen" },
-      { "Nome": "ChuteCongelante" }
-
-    ],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [100, 0, 0], "Borda": [0, 0, 0] }
-    }
-  },
-
     "34356664": {
     "Name": "Grécia antiga",
     "Health": 5000,
