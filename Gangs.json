@@ -41,7 +41,6 @@
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" }
-
     ],
     "Colors": {
       "Nome": { "Texto": [90, 0, 120], "Borda": [0, 0, 0] },
@@ -56,7 +55,6 @@
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "Raio" }
-
     ],
     "Colors": {
       "Nome": { "Texto": [100, 0, 0], "Borda": [0, 0, 0] },
