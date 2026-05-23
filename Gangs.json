@@ -41,27 +41,11 @@
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" }
-
     ],
     "Colors": {
       "Nome": { "Texto": [90, 0, 120], "Borda": [0, 0, 0] },
       "Patente": { "Texto": [90, 0, 120], "Borda": [0, 0, 0] },
       "Team": { "Texto": [90, 0, 120], "Borda": [0, 0, 0] }
-    }
-  },
-
-    "34894857": {
-    "Name": "NoCraK",
-    "Health": 5000,
-    "Itens": [
-      { "Nome": "Kokusen" },
-      { "Nome": "ChuteCongelante" }
-
-    ],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [100, 0, 0], "Borda": [0, 0, 0] }
     }
   },
 
@@ -71,7 +55,6 @@
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "Raio" }
-
     ],
     "Colors": {
       "Nome": { "Texto": [100, 0, 0], "Borda": [0, 0, 0] },
@@ -174,7 +157,7 @@
     }
   },
 
- "1188144466666 ": {
+ "34894857": {
     "Name": "Demon Slayer Corps",
     "Health": 1000,
     "Itens": [
@@ -399,14 +382,13 @@
     "Name": "World Governnament",
     "Health": 1000,
     "Itens": [
-      { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
       { "Nome": "Raio" },
       { "Nome": "Susanoo" },
       { "Nome": "Rinnegan" },
       { "Nome": "Water Dragon" },
-     { "Nome": "Foice de Gelo" }
+      { "Nome": "Foice de Gelo" }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [124, 175, 172] },
