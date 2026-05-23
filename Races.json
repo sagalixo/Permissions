@@ -73,5 +73,9 @@
   "Saiyajins": {
     "Type": "Group",
     "GroupID": 46044922
+  },
+  "Zeno": {
+    "Type": "Group",
+    "GroupID": 151686392
   }
 }
