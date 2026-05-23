@@ -124,7 +124,8 @@
     "Name": "Clã Uchiha",
     "Health": 10000,
     "Itens": [
-      { "Nome": "Kokusen" },
+      { "Nome": "Pisao" },
+      { "Nome": "Thunder Judgment" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Rasteira" },
       { "Nome": "SusanooEspada" },
