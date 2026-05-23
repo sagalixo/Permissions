@@ -1,10 +1,42 @@
 [
   {
-    "Code": "THUNDERJUDGMENT",
+    "Code": "v3712",
+    "Duration": 3600,
+    "Reward": {
+      "Type": "Character",
+      "Name": "Susanoo"
+    }
+  },
+  {
+    "Code": "ThxFor11KVisits",
     "Duration": 0,
     "Reward": {
       "Type": "Character",
-      "Name": "TeenGojo"
+      "Name": "SusanooEspada"
+    }
+  },
+  {
+    "Code": "SAAAAAAAAAAAASSSSSSSSSS",
+    "Duration": 0,
+    "Reward": {
+      "Type": "Character",
+      "Name": "Raio"
+    }
+  },
+  {
+    "Code": "GangsBeatDownOnTop",
+    "Duration": 0,
+    "Reward": {
+      "Type": "Character",
+      "Name": "Mundo Transparente"
+    }
+  },
+  {
+    "Code": "11.8K Visits!",
+    "Duration": 0,
+    "Reward": {
+      "Type": "Skill",
+      "Name": "1000 Tokens"
     }
   }
 ]
