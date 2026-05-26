@@ -80,6 +80,15 @@
       1663412321
     ]
   },
+ "Jötunn": {
+    "Type": "Permission",
+    "Permission": [
+      1449978472,
+      8674166330,
+      4320964346,
+      1663412321
+    ]
+  },
   "NSORROMA": {
     "Type": "Group",
     "GroupID": 775009161
