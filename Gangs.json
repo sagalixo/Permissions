@@ -12,7 +12,7 @@
       { "Nome": "Thunder Judgment" },
       { "Nome": "The Real Esfere" },
       { "Nome": "FP_Colateral" },
-      { "Nome": "CorteDoSol" },
+      { "Nome": "Void Gate" },
       { "Nome": "Overdrive" },
       { "Nome": "DemonBash" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
@@ -329,13 +329,9 @@
     "MaxAbilities": 8,
     "Itens": [
       { "Nome":"Flashstep"},
-      { "Nome":"Ice Paradise"},
-      { "Nome":"Thunder Judgment"},
       {"Nome":"Colateral"},
       { "Nome":"Rinnegan"},
       {"Nome":"CorteDoSol"},
-      { "Nome":"Pisao"},
-      { "Nome":"DemonBash"},
       { "Nome":"SusanooEspada"},
       { "Nome":"Susanoo"},
       { "Nome":"Susanoo Skeleton"},
@@ -396,24 +392,5 @@
       "Patente": { "Texto": [0, 0, 0], "Borda": [124, 175, 172] },
       "Team": { "Texto": [0, 0, 0], "Borda": [124, 175, 172] }
     }
-  },
-
-  "34271955": {
-    "Name": "Syndicate Reapers",
-    "Health": 10000,
-    "Itens": [
-      { "Nome": "CorteCircular" },
-      { "Nome": "Raio" },
-      { "Nome": "SlayerMark" },
-      { "Nome": "Rasteira" },
-      { "Nome": "Ceifar" },
-      { "Nome": "Dismantle" },
-      { "Nome": "ChuteDeFogo" },
-      { "Nome": "SusanooEspada" },
-      { "Nome": "Rinnegan" },
-      { "Nome": "Colateral" },
-      { "Nome": "Void Gate" },
-      { "Nome": "Bang" }
-    ]
   }
 }
