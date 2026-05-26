@@ -303,6 +303,21 @@
       "Team": { "Texto": [255, 255, 255], "Borda": [255, 20, 235] }
     }
   },
+
+ "908586004": {
+    "Name": "Galaxy Order",
+    "Health": 500,
+    "Itens": [
+      { "Nome": "Kokusen" },
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" }
+    ],
+    "Colors": {
+      "Nome": { "Texto": [110, 255, 250], "Borda": [0, 0, 0] },
+      "Patente": { "Texto": [110, 255, 250], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [110, 255, 250], "Borda": [0, 0, 0] }
+    }
+  },
  
   "825609349": {
     "Name": "Os Hashiras",
