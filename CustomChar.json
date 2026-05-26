@@ -54,7 +54,7 @@
 
       "Kokushibo": {
       "Tier": 1000,
-      "Permission": [5111464960, 1663412321, 4005875136]
+      "Permission": [5111464960, 1663412321]
     },
 
       "Armin": {
@@ -87,6 +87,12 @@
       "Tier": 500,
       "Permission": [1463532900]
     },
+
+      "CosmicGarou": {
+      "Tier": 500,
+      "Permission": []
+    },
+
 
     "Jotaro": {
       "Tier": 100,
