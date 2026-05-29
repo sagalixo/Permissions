@@ -250,7 +250,7 @@
   },
 
  "33524892": {
-    "Name": "Psikolera",
+    "Name": "Luas Superiores",
     "Health": 1000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -261,14 +261,14 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [255, 0, 21], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [255, 0, 21], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [255, 0, 21], "Borda": [0, 0, 0] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [107, 37, 1] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [107, 37, 1] }
     }
   },
 
   "34792528": {
-    "Name": "Real Gan'g",
+    "Name": "Unreal",
     "Health": 1000,
     "Itens": [
       { "Nome": "Kokusen" },
