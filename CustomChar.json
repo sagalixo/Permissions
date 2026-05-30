@@ -33,6 +33,11 @@
       "Permission": []
     },
 
+      "Sasuke": {
+      "Tier": 100,
+      "Permission": []
+    },
+
     "Toji": {
       "Tier" : 1000,
       "Permission" : [2579583119, 1449978472, 1663412321]
