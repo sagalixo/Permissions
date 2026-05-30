@@ -35,17 +35,21 @@
     ]
   },
 
-  "851244261": {
-    "Name": "Os Ditadores",
+  "392771630": {
+    "Name": "Synergy Order",
     "Health": 5000,
     "Itens": [
       { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" }
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [90, 0, 120], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [90, 0, 120], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [90, 0, 120], "Borda": [0, 0, 0] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [102, 2, 2], "Borda": [0, 0, 0] }
     }
   },
 
