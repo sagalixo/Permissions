@@ -37,7 +37,7 @@
 
   "392771630": {
     "Name": "Synergy Order",
-    "Health": 5000,
+    "Health": 3000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
@@ -219,7 +219,7 @@
 
  "87125772": {
     "Name": "Overlord's",
-    "Health": 1000,
+    "Health": 3000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
@@ -235,9 +235,9 @@
     }
   },
 
- "829692947": {
-    "Name": "Solo Leveling Gang",
-    "Health": 1000,
+ "33870696": {
+    "Name": "testebloxfruit77",
+    "Health": 3000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
@@ -247,15 +247,15 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [84, 0, 153], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [84, 0, 153], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [84, 0, 153], "Borda": [0, 0, 0] }
+      "Nome": { "Texto": [0, 17, 255], "Borda": [255, 0, 0] },
+      "Patente": { "Texto": [0, 17, 255], "Borda": [255, 0, 0] },
+      "Team": { "Texto": [0, 17, 255], "Borda": [255, 0, 0] }
     }
   },
 
  "33524892": {
     "Name": "Luas Superiores",
-    "Health": 1000,
+    "Health": 3000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
