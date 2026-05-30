@@ -217,8 +217,8 @@
     }
   },
 
- "537506790": {
-    "Name": "Invencibles",
+ "87125772": {
+    "Name": "Overlord's",
     "Health": 1000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -229,9 +229,9 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [153, 28, 255], "Borda": [0, 0, 0] },
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [255, 255, 255], "Borda": [193, 117, 255] }
+      "Team": { "Texto": [102, 2, 2], "Borda": [0, 0, 0] }
     }
   },
 
