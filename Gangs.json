@@ -348,13 +348,12 @@
     "MaxAbilities": 8,
     "Itens": [
       { "Nome":"Flashstep" , "Ignore": "true"},
-      { "Nome":"CorteCircular"},
-      { "Nome":"Pisao"},
-      { "Nome":"Susanoo" , "Attributes": { "Range": 20 }},
-      { "Nome":"Rinnegan" , "Attributes": { "Range": 55 }},
-      { "Nome":"DemonBash" , "Attributes": { "Range": 30 }},
-      { "Nome":"Hadou"},
-      { "Nome":"Colateral"},
+      { "Nome":"CorteCircular" , "Attributes": { "Range": 20 }},
+      { "Nome":"Pisao" , "Attributes": { "Range": 15}},
+      { "Nome":"Susanoo" , "Attributes": { "Range": 30 }},
+      { "Nome":"Rinnegan" , "Attributes": { "Range": 70 }},
+      { "Nome":"DemonBash" , "Attributes": { "Range": 55 }},
+      { "Nome":"Colateral" , "Attributes": { "Range": 30 }},
       { "Nome":"DoubleJump" , "Ignore": "true" , "Attributes":{ "Height": 80 }}
     ]
   },
