@@ -347,7 +347,7 @@
     "Health": 75000,
     "MaxAbilities": 8,
     "Itens": [
-      { "Nome":"Flashstep" , "Ignore": "true"},
+      { "Nome":"Flashstep" , "Ignore": "true" , "Attributes": {"Height": 40 }},
       { "Nome":"CorteCircular" , "Attributes": { "Range": 20 }},
       { "Nome":"Pisao" , "Attributes": { "Range": 20}},
       { "Nome":"Susanoo" , "Attributes": { "Range": 40 }},
