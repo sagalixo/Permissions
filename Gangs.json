@@ -376,9 +376,9 @@
     }
   },
 
-  "33345163": {
-    "Name": "Akatsuki",
-    "Health": 1000,
+  "35147149": {
+    "Name": "Gotei 13",
+    "Health": 3000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
@@ -388,9 +388,9 @@
       { "Nome": "Rinnegan" }
     ],
     "Colors": {
-      "Nome": { "Texto": [255, 0, 0], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [255, 0, 0], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [255, 0, 0], "Borda": [0, 0, 0] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
     }
   },
 
