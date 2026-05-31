@@ -347,14 +347,15 @@
     "Health": 75000,
     "MaxAbilities": 8,
     "Itens": [
-      { "Nome":"Flashstep"},
-      {"Nome":"Colateral"},
-      { "Nome":"Rinnegan"},
-      {"Nome":"CorteDoSol"},
-      { "Nome":"SusanooEspada"},
-      { "Nome":"Susanoo"},
-      { "Nome":"Susanoo Skeleton"},
-      { "Nome":"CorteCircular"}
+      { "Nome":"Flashstep" , "Ignore": "true"},
+      { "Nome":"CorteCircular"},
+      { "Nome":"Pisao"},
+      { "Nome":"Susanoo" , "Attributes": { "Range": 20 }},
+      { "Nome":"Rinnegan" , "Attributes": { "Range": 55 }},
+      { "Nome":"DemonBash" , "Attributes": { "Range": 30 }},
+      { "Nome":"Hadou"},
+      { "Nome":"Colateral"},
+      { "Nome":"DoubleJump" , "Ignore": "true" , "Attributes":{ "Height": 80 }}
     ]
   },
 
