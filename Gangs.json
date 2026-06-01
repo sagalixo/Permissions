@@ -37,7 +37,7 @@
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
     ],
     "Colors": {
-       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+       "Nome": { "Texto": [0, 0, 0], "Borda": [194, 53, 255] },
        "Patente": { "Texto": [194, 53, 255], "Borda": [0, 0, 0] },
        "Team": { "Texto": [194, 53, 255], "Borda": [0, 0, 0] }
     }
