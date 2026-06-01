@@ -353,10 +353,10 @@
       { "Nome": "CorteCircular" , "Attributes": { "Range": 35 }},
       { "Nome": "ChuteCongelante" , "Attributes": { "Range": 35 }},
       { "Nome": "Pisao" , "Attributes": { "Range": 35 }},
-      { "Nome": "SusanooEspada" , "Attributes": { "Range": 200}},
-      { "Nome": "Susanoo" , "Attributes": { "Range": 80 }},
+      { "Nome": "SusanooEspada" , "Attributes": { "Range": 55}},
+      { "Nome": "Susanoo" , "Attributes": { "Range": 55 }},
       { "Nome": "Rinnegan" , "Attributes": { "Range": 55 }},
-      { "Nome": "DemonBash" , "Attributes": { "Range": 500 }},
+      { "Nome": "DemonBash" , "Attributes": { "Range": 200 }},
       { "Nome": "Colateral" , "Attributes": { "Range": 40 }}
     ]
   },
