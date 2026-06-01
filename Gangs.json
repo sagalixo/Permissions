@@ -19,6 +19,25 @@
     ]
   },
 
+ "596497104": {
+    "Name": "TyranT Assoc.",
+    "Health": 75000,
+    "MaxAbilities": 10,
+    "Itens": [
+      { "Nome": "Pisao" },
+      { "Nome": "Ice Paradise" },
+      { "Nome": "Flashstep" },
+      { "Nome": "Supernova" },
+      { "Nome": "Thunder Judgment" },
+      { "Nome": "The Real Esfere" },
+      { "Nome": "FP_Colateral" },
+      { "Nome": "Void Gate" },
+      { "Nome": "Overdrive" },
+      { "Nome": "DemonBash" },
+      { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
+    ]
+  },
+
   "34390641": {
     "Name": "Hueco Mundo",
     "Health": 35000,
