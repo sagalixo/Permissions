@@ -164,7 +164,7 @@
   },
 
  "34894857": {
-    "Name": "Demon Slayer Corps",
+    "Name": "Los periquitas",
     "Health": 1000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -175,9 +175,9 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [0,0,0], "Borda": [255,255,255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 102, 0] }
+      "Nome": { "Texto": [0, 102, 102], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 102, 102], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
     }
   },
 
