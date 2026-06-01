@@ -151,17 +151,13 @@
       { "Nome": "CorteDoSol" },
       { "Nome": "Kimimaru" },
       { "Nome": "SusanooEspada" },
-      { "Nome": "Rinnegan" },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
       { "Nome": "Raio" },
       { "Nome": "Fire" },
       { "Nome": "Amaterasu" },
       { "Nome": "Awakening" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] }
-    }
+      { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
+    ]
   },
 
  "35716048": {
