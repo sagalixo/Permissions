@@ -329,7 +329,7 @@
   },
 
  "908586004": {
-    "Name": "Galaxy Order",
+    "Name": "Ceifadores",
     "Health": 500,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -337,9 +337,9 @@
       { "Nome": "Rasteira" }
     ],
     "Colors": {
-      "Nome": { "Texto": [110, 255, 250], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [110, 255, 250], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [110, 255, 250], "Borda": [0, 0, 0] }
+      "Nome": { "Texto": [0, 0 , 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [79, 79, 79], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [79, 79, 79] }
     }
   },
  
