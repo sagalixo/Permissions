@@ -352,11 +352,11 @@
       { "Nome": "Flashstep" },
       { "Nome": "CorteCircular" , "Attributes": { "Range": 20 }},
       { "Nome": "ChuteCongelante" , "Attributes": { "Range": 25 }},
-      { "Nome": "Pisao" , "Attributes": { "Range": 100 }},
-      { "Nome": "Susanoo" , "Attributes": { "Range": 80 }},
-      { "Nome": "Rinnegan" , "Attributes": { "Range": 80 }},
-      { "Nome": "Bang" , "Attributes": { "Range": 60 }},
-      { "Nome": "DemonBash" , "Attributes": { "Range": 100 }},
+      { "Nome": "Pisao" , "Attributes": { "Range": 60 }},
+      { "Nome": "Susanoo" , "Attributes": { "Range": 55 }},
+      { "Nome": "Rinnegan" , "Attributes": { "Range": 60 }},
+      { "Nome": "Bang" , "Attributes": { "Range": 80 }},
+      { "Nome": "DemonBash" , "Attributes": { "Range": 120 }},
       { "Nome": "Colateral" , "Attributes": { "Range": 40 }}
     ]
   },
