@@ -143,6 +143,7 @@
   
   "944451740": {
     "Name": "Clã Uchiha",
+    "MaxAbilities": 10,
     "Health": 10000,
     "Itens": [
       { "Nome": "Pisao" },
