@@ -24,7 +24,7 @@
     "Health": 100000,
     "MaxAbilities": 1000,
     "Itens": [
-      { "Nome": "TT_Colateral" },
+      { "Nome": "TyT_Colateral" },
       { "Nome": "Mountain Cutter" },
       { "Nome": "Overdrive" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
