@@ -168,10 +168,12 @@
     "Health": 1000,
     "Itens": [
       { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "Bang" },
       { "Nome": "Susanoo" },
       { "Nome": "Rinnegan" },
+      { "Nome": "Flashstep" },
+      { "Nome": "Susanoo Skeleton" },
       { "Nome": "Raio" }
     ],
     "Colors": {
