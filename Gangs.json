@@ -156,7 +156,7 @@
       { "Nome": "Raio" },
       { "Nome": "Fire" },
       { "Nome": "Amaterasu" },
-      { "Nome": "Awakening" }
+      { "Nome": "Awakening" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
     ]
   },
