@@ -21,8 +21,8 @@
 
  "596497104": {
     "Name": "TyranT Assoc.",
-    "Health": 75000,
-    "MaxAbilities": 10,
+    "Health": 100000,
+    "MaxAbilities": 1000,
     "Itens": [
       { "Nome": "TT_Colateral" },
       { "Nome": "Mountain Cutter" },
