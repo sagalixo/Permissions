@@ -24,16 +24,9 @@
     "Health": 75000,
     "MaxAbilities": 10,
     "Itens": [
-      { "Nome": "Pisao" },
-      { "Nome": "Ice Paradise" },
-      { "Nome": "Flashstep" },
-      { "Nome": "Supernova" },
-      { "Nome": "Thunder Judgment" },
-      { "Nome": "The Real Esfere" },
-      { "Nome": "FP_Colateral" },
+      { "Nome": "TT_Colateral" },
       { "Nome": "Mountain Cutter" },
       { "Nome": "Overdrive" },
-      { "Nome": "DemonBash" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
     ],
     "Colors": {
