@@ -5,7 +5,7 @@
     "Health": 75000,
     "MaxAbilities": 10,
     "Itens": [
-      { "Nome": "Pisao" },
+      { "Nome": "Pisao"},
       { "Nome": "Ice Paradise" },
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
@@ -368,13 +368,14 @@
     "Itens": [
       { "Nome": "Flashstep" },
       { "Nome": "CorteCircular" , "Attributes": { "Range": 35 }},
-      { "Nome": "ChuteCongelante" , "Attributes": { "Range": 35 }},
-      { "Nome": "Pisao" , "Attributes": { "Range": 35 }},
+      { "Nome": "Pisao" , "Attributes": { "Range": 25 }},
       { "Nome": "SusanooEspada" , "Attributes": { "Range": 55}},
       { "Nome": "Susanoo" , "Attributes": { "Range": 55 }},
-      { "Nome": "Rinnegan" , "Attributes": { "Range": 55 }},
+      { "Nome": "Rinnegan" , "Attributes": { "Range": 1000 }},
+      { "Nome": "Supernova" , "Attributes": { "Range": 40 }},
       { "Nome": "DemonBash" , "Attributes": { "Range": 200 }},
-      { "Nome": "Colateral" , "Attributes": { "Range": 40 }}
+      { "Nome": "Colateral" , "Attributes": { "Range": 40 }},
+      { "Nome": "DoubleJump" , "Ignore": "true" , "Attributes": { "Height":120 }}
     ]
   },
 
