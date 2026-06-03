@@ -126,25 +126,6 @@
       "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
     }
   },
-
-  "515674220": {
-    "Name": "Máfia da Passione",
-    "Health": 10000,
-    "Itens": [
-      { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
-      { "Nome": "SusanooEspada" },
-      { "Nome": "ChuteCongelante" },
-      { "Nome": "Rinnegan" },
-      { "Nome": "Raio" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] }
-    }
-  },
   
   "944451740": {
     "Name": "Clã Uchiha",
