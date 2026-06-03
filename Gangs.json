@@ -291,7 +291,7 @@
   },
 
   "34792528": {
-    "Name": "Noinver Assoc.",
+    "Name": "Unreal",
     "Health": 1000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -303,7 +303,7 @@
       { "Nome": "Susanoo Skeleton" }
     ],
     "Colors": {
-      "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Nome": { "Texto": [255, 255, 255 ], "Borda": [0, 0, 0] },
       "Patente": { "Texto": [19, 23, 106], "Borda": [0, 0, 0] },
       "Team": { "Texto": [19, 23, 106], "Borda": [0, 0, 0] }
     }
