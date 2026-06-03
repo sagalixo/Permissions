@@ -88,12 +88,16 @@
     "Name": "Blake Association",
     "Health": 5000,
     "Itens": [
-      { "Nome": "Kokusen" },
+      { "Nome": "SlayerMark" },
+      { "Nome": "CorteCircular" },
+      { "Nome": "Flashstep" },
+      { "Nome": "CorteDoSol" },
       { "Nome": "ChuteDeFogo" },
+      { "Nome": "Supernova" },
       { "Nome": "Rasteira" },
       { "Nome": "SusanooEspada" },
       { "Nome": "ChuteCongelante" },
-      { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 65 } },
       { "Nome": "Raio" }
     ],
     "Colors": {
