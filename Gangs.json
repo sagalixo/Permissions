@@ -144,7 +144,6 @@
       { "Nome": "Fire" },
       { "Nome": "Amaterasu" },
       { "Nome": "Awakening" },
-      { "Nome": "Clã_Farda", "Ignore": "true" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
     ]
   },
