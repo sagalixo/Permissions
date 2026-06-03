@@ -27,6 +27,7 @@
       { "Nome": "TyT_Colateral" },
       { "Nome": "Mountain Cutter" },
       { "Nome": "Overdrive" },
+      { "Nome": "TyranT_Farda", "Ignore": "true" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
     ],
     "Colors": {
