@@ -356,10 +356,10 @@
     "Itens": [
       { "Nome": "Flashstep" },
       { "Nome": "CorteCircular" , "Attributes": { "Range": 40 }},
-      { "Nome": "Pisao" , "Attributes": { "Range": 100 }},
+      { "Nome": "Pisao" , "Attributes": { "Range": 10000000 }},
       { "Nome": "SusanooEspada" , "Attributes": { "Range": 45 }},
       { "Nome": "Susanoo" , "Attributes": { "Range": 45 }},
-      { "Nome": "Rinnegan" , "Attributes": { "Range": 1000 }},
+      { "Nome": "Rinnegan" , "Attributes": { "Range": 1000000 }},
       { "Nome": "Supernova" , "Attributes": { "Range": 5 }},
       { "Nome": "DemonBash" , "Attributes": { "Range": 250 }},
       { "Nome": "Colateral" , "Attributes": { "Range": 40 }},
