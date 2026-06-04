@@ -142,6 +142,7 @@
       { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
       { "Nome": "Raio" },
       { "Nome": "Fire" },
+      { "Nome": "Crimson Step" },
       { "Nome": "Amaterasu" },
       { "Nome": "Awakening" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
