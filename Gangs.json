@@ -356,7 +356,7 @@
     "Itens": [
       { "Nome": "Flashstep" },
       { "Nome": "CorteCircular" , "Attributes": { "Range": 40 }},
-      { "Nome": "Pisao" , "Attributes": { "Range": 150 }},
+      { "Nome": "Pisao" , "Attributes": { "Range": 1000 }},
       { "Nome": "SusanooEspada" , "Attributes": { "Range": 45 }},
       { "Nome": "Susanoo" , "Attributes": { "Range": 45 }},
       { "Nome": "Rinnegan" , "Attributes": { "Range": 80 }},
