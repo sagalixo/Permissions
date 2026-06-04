@@ -28,11 +28,6 @@
       "Permission": [1663412321,4005875136]
     },
 
-      "Sasuke": {
-      "Tier": 5000,
-      "Permission": [1663412321]
-    },
-
     "Aizen": {
       "Tier": 1000,
       "Permission": [1663412321]
@@ -45,7 +40,7 @@
 
     "Johnny" : {
       "Tier": 1000,
-      "Permission": {}
+      "Permission": []
     },
 
       "DioOverHeaven": {

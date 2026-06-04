@@ -35,17 +35,21 @@
     ]
   },
 
-  "851244261": {
-    "Name": "Os Ditadores",
-    "Health": 5000,
+  "392771630": {
+    "Name": "Synergy Order",
+    "Health": 3000,
     "Itens": [
       { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" }
+      { "Nome": "ChuteDeFogo" },
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Rinnegan" },
+      { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [90, 0, 120], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [90, 0, 120], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [90, 0, 120], "Borda": [0, 0, 0] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [102, 2, 2], "Borda": [0, 0, 0] }
     }
   },
 
@@ -213,9 +217,9 @@
     }
   },
 
- "537506790": {
-    "Name": "Invencibles",
-    "Health": 1000,
+ "87125772": {
+    "Name": "Overlord's",
+    "Health": 3000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
@@ -225,15 +229,15 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [153, 28, 255], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [255, 255, 255], "Borda": [193, 117, 255] }
+      "Nome": { "Texto": [0, 255, 195], "Borda": [255, 228, 196] },
+      "Patente": { "Texto": [28, 20, 0], "Borda": [201, 255, 181] },
+      "Team": { "Texto": [255, 0, 98], "Borda": [106, 0, 255] }
     }
   },
 
- "829692947": {
-    "Name": "Solo Leveling Gang",
-    "Health": 1000,
+ "33870696": {
+    "Name": "testebloxfruit77",
+    "Health": 3000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
@@ -243,15 +247,15 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [84, 0, 153], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [84, 0, 153], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [84, 0, 153], "Borda": [0, 0, 0] }
+      "Nome": { "Texto": [0, 17, 255], "Borda": [255, 0, 0] },
+      "Patente": { "Texto": [0, 17, 255], "Borda": [255, 0, 0] },
+      "Team": { "Texto": [0, 17, 255], "Borda": [255, 0, 0] }
     }
   },
 
  "33524892": {
     "Name": "Luas Superiores",
-    "Health": 1000,
+    "Health": 3000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
