@@ -54,7 +54,7 @@
   },
 
   "392771630": {
-    "Name": "Singularity Order",
+    "Name": "Heiwa",
     "Health": 3000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -65,9 +65,9 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [75, 0, 130] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [75, 0, 130] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [75, 0, 130] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255,255,0] }
     }
   },
 
