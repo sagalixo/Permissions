@@ -5,7 +5,7 @@
     "Health": 75000,
     "MaxAbilities": 10,
     "Itens": [
-      { "Nome": "Pisao" },
+      { "Nome": "Pisao"},
       { "Nome": "Ice Paradise" },
       { "Nome": "Flashstep" },
       { "Nome": "Supernova" },
@@ -17,6 +17,24 @@
       { "Nome": "DemonBash" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
     ]
+  },
+
+ "596497104": {
+    "Name": "TyranT Assoc.",
+    "Health": 100000,
+    "MaxAbilities": 1000,
+    "Itens": [
+      { "Nome": "TyT_Colateral" },
+      { "Nome": "Mountain Cutter" },
+      { "Nome": "Overdrive" },
+      { "Nome": "TyranT_Farda", "Ignore": "true" },
+      { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
+    ],
+    "Colors": {
+       "Nome": { "Texto": [0, 0, 0], "Borda": [194, 53, 255] },
+       "Patente": { "Texto": [194, 53, 255], "Borda": [0, 0, 0] },
+       "Team": { "Texto": [194, 53, 255], "Borda": [0, 0, 0] }
+    }
   },
 
   "34390641": {
@@ -36,7 +54,7 @@
   },
 
   "392771630": {
-    "Name": "Synergy Order",
+    "Name": "Singularity Order",
     "Health": 3000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -47,9 +65,9 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [102, 2, 2], "Borda": [0, 0, 0] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [75, 0, 130] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [75, 0, 130] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [75, 0, 130] }
     }
   },
 
@@ -71,12 +89,16 @@
     "Name": "Blake Association",
     "Health": 5000,
     "Itens": [
-      { "Nome": "Kokusen" },
+      { "Nome": "SlayerMark" },
+      { "Nome": "CorteCircular" },
+      { "Nome": "Flashstep" },
+      { "Nome": "CorteDoSol" },
       { "Nome": "ChuteDeFogo" },
+      { "Nome": "Supernova" },
       { "Nome": "Rasteira" },
       { "Nome": "SusanooEspada" },
       { "Nome": "ChuteCongelante" },
-      { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 65 } },
       { "Nome": "Raio" }
     ],
     "Colors": {
@@ -104,45 +126,26 @@
       "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
     }
   },
-
-  "515674220": {
-    "Name": "Máfia da Passione",
-    "Health": 10000,
-    "Itens": [
-      { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
-      { "Nome": "SusanooEspada" },
-      { "Nome": "ChuteCongelante" },
-      { "Nome": "Rinnegan" },
-      { "Nome": "Raio" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] }
-    }
-  },
   
   "944451740": {
     "Name": "Clã Uchiha",
+    "MaxAbilities": 10,
     "Health": 10000,
     "Itens": [
       { "Nome": "Pisao" },
       { "Nome": "Thunder Judgment" },
-      { "Nome": "Colateral" },
+      { "Nome": "P_Colateral" },
+      { "Nome": "Void Gate" },
       { "Nome": "CorteDoSol" },
       { "Nome": "Kimimaru" },
       { "Nome": "SusanooEspada" },
-      { "Nome": "Rinnegan" },
+      { "Nome": "Rinnegan", "Attributes": { "Range": 55 } },
       { "Nome": "Raio" },
-      { "Nome": "Fire" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] }
-    }
+      { "Nome": "Fire" },
+      { "Nome": "Amaterasu" },
+      { "Nome": "Awakening" },
+      { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
+    ]
   },
 
  "35716048": {
@@ -164,20 +167,22 @@
   },
 
  "34894857": {
-    "Name": "Demon Slayer Corps",
+    "Name": "Los periquitas",
     "Health": 1000,
     "Itens": [
       { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "Bang" },
       { "Nome": "Susanoo" },
       { "Nome": "Rinnegan" },
+      { "Nome": "Flashstep" },
+      { "Nome": "Susanoo Skeleton" },
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [0,0,0], "Borda": [255,255,255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 102, 0] }
+      "Nome": { "Texto": [0, 102, 102], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 102, 102], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
     }
   },
 
@@ -247,9 +252,9 @@
       { "Nome": "Raio" }
     ],
     "Colors": {
-      "Nome": { "Texto": [0, 17, 255], "Borda": [255, 0, 0] },
-      "Patente": { "Texto": [0, 17, 255], "Borda": [255, 0, 0] },
-      "Team": { "Texto": [0, 17, 255], "Borda": [255, 0, 0] }
+      "Nome": { "Texto": [255, 255, 255], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
     }
   },
 
@@ -272,7 +277,7 @@
   },
 
   "34792528": {
-    "Name": "Unreal",
+    "Name": "Noinver Assoc.g",
     "Health": 1000,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -281,10 +286,11 @@
       { "Nome": "Susanoo" },
       { "Nome": "Rinnegan" },
       { "Nome": "Raio" },
-      { "Nome": "Susanoo Skeleton" }
+      { "Nome": "Susanoo Skeleton" },
+      { "Nome": "Flashstep" }
     ],
     "Colors": {
-      "Nome": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Nome": { "Texto": [255, 255, 255 ], "Borda": [0, 0, 0] },
       "Patente": { "Texto": [19, 23, 106], "Borda": [0, 0, 0] },
       "Team": { "Texto": [19, 23, 106], "Borda": [0, 0, 0] }
     }
@@ -309,7 +315,7 @@
   },
 
  "908586004": {
-    "Name": "Galaxy Order",
+    "Name": "Ceifadores",
     "Health": 500,
     "Itens": [
       { "Nome": "Kokusen" },
@@ -317,9 +323,9 @@
       { "Nome": "Rasteira" }
     ],
     "Colors": {
-      "Nome": { "Texto": [110, 255, 250], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [110, 255, 250], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [110, 255, 250], "Borda": [0, 0, 0] }
+      "Nome": { "Texto": [0, 0 , 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [79, 79, 79], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [79, 79, 79] }
     }
   },
  
@@ -343,18 +349,20 @@
   },
 
   "755862819": {
-    "Name": "Mafia",
+    "Name": "Toп Mafia Gang",
     "Health": 75000,
     "MaxAbilities": 8,
     "Itens": [
-      { "Nome":"Flashstep"},
-      {"Nome":"Colateral"},
-      { "Nome":"Rinnegan"},
-      {"Nome":"CorteDoSol"},
-      { "Nome":"SusanooEspada"},
-      { "Nome":"Susanoo"},
-      { "Nome":"Susanoo Skeleton"},
-      { "Nome":"CorteCircular"}
+      { "Nome": "Flashstep" },
+      { "Nome": "CorteCircular" , "Attributes": { "Range": 40 }},
+      { "Nome": "Pisao" , "Attributes": { "Range": 20 }},
+      { "Nome": "SusanooEspada" , "Attributes": { "Range": 45 }},
+      { "Nome": "Susanoo" , "Attributes": { "Range": 45 }},
+      { "Nome": "Rinnegan" , "Attributes": { "Range": 65 }},
+      { "Nome": "Supernova" , "Attributes": { "Range": 5 }},
+      { "Nome": "DemonBash" , "Attributes": { "Range": 250 }},
+      { "Nome": "Colateral" , "Attributes": { "Range": 40 }},
+      { "Nome": "DoubleJump" , "Ignore": "true" , "Attributes": { "Height":120 }}
     ]
   },
 
@@ -376,9 +384,9 @@
     }
   },
 
-  "33345163": {
-    "Name": "Akatsuki",
-    "Health": 1000,
+  "35147149": {
+    "Name": "Gotei 13",
+    "Health": 3000,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
@@ -388,9 +396,9 @@
       { "Nome": "Rinnegan" }
     ],
     "Colors": {
-      "Nome": { "Texto": [255, 0, 0], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [255, 0, 0], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [255, 0, 0], "Borda": [0, 0, 0] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [0, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
     }
   },
 
