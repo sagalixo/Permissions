@@ -19,25 +19,21 @@
   "Character": {
 
     "Vergil": {
-      "Tier": 1000,
-      "Permission": [1569341667, 1463532900]
+      "Tier": "Locked",
+      "Permission": [1449978472, 1569341667, 1463532900, 8674166330, 4320964346]
     },
 
-      "Douma": {
+    "Douma": {
       "Tier": 5000,
       "Permission": [1663412321,4005875136,1569341667]
     },
-
-"Aizen": {
-  "Tier": 1000,
-  "Permission": [1663412321]
-},
+    
     "Madara": {
-      "Tier": 1500,
-      "Permission": [4320964346, 8674166330, 1449978472]
+      "Tier": "Locked",
+      "Permission": [1449978472, 8674166330]
     },
 
-      "Sasuke": {
+    "Sasuke": {
       "Tier": 100,
       "Permission": []
     },
@@ -52,7 +48,7 @@
       "Permission": []
     },
 
-      "DioOverHeaven": {
+    "DioOverHeaven": {
       "Tier": 1000,
       "Permission": [3337736146, 2579583119, 8674166330, 724152595]
     },
@@ -62,13 +58,13 @@
       "Permission": [8674166330]
     },
 
-      "Kokushibo": {
+   "Kokushibo": {
       "Tier": 1000,
       "Permission": [5111464960, 1663412321]
     },
 
-      "Armin": {
-      "Tier": 750,
+    "Armin": {
+      "Tier": "Locked",
       "Permission": [2579583119, 3337736146, 1449978472, 1663412321, 1569341667]
     },
 
