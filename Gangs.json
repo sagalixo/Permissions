@@ -364,12 +364,7 @@
       { "Nome": "DemonBash" , "Attributes": { "Range": 250 }},
       { "Nome": "Colateral" , "Attributes": { "Range": 40 }},
       { "Nome": "DoubleJump" , "Ignore": "true" , "Attributes": { "Height":120 }}
-    ],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [0, 0, 0] }
-    }
+    ]
   },
 
   "33994083": {
