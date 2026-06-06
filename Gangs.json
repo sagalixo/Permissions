@@ -321,6 +321,7 @@
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
+      { "Nome": "Water Dragon" },
       { "Nome": "Rasteira" }
     ],
     "Colors": {
@@ -412,7 +413,6 @@
       { "Nome": "Raio" },
       { "Nome": "Susanoo" },
       { "Nome": "Rinnegan" },
-      { "Nome": "Water Dragon" },
       { "Nome": "Foice de Gelo" }
     ],
     "Colors": {
