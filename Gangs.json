@@ -24,9 +24,6 @@
     "Health": 100000,
     "MaxAbilities": 25,
     "Itens": [
-      { "Nome": "Flashstep" },
-      { "Nome": "Pisao" , "Attributes": { "Range":100 } },
-      { "Nome": "Rinnegan" , "Attributes": { "Range": 65} }
     ]
 },
 
