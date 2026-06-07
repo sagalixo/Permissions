@@ -285,26 +285,6 @@
     }
   },
 
-  "34792528": {
-    "Name": "Noinver Assoc.",
-    "Health": 1000,
-    "Itens": [
-      { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
-      { "Nome": "Susanoo" },
-      { "Nome": "Rinnegan" },
-      { "Nome": "Raio" },
-      { "Nome": "Susanoo Skeleton" },
-      { "Nome": "Flashstep" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [255, 255, 255 ], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [19, 23, 106], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [19, 23, 106], "Borda": [0, 0, 0] }
-    }
-  },
-
   "32419373": {
     "Name": "龍 ✦ Super Novas ✦ 龍",
     "Health": 1000,
