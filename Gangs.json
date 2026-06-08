@@ -310,7 +310,10 @@
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Water Dragon" },
-      { "Nome": "Rasteira" }
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Raio" },
+      { "Nome": "Rinnegan" }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0 , 0], "Borda": [255, 255, 255] },
@@ -379,10 +382,7 @@
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
-      { "Nome": "Raio" },
-      { "Nome": "Susanoo" },
-      { "Nome": "Rinnegan" }
+      { "Nome": "Rasteira" }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
