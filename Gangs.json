@@ -19,6 +19,14 @@
     ]
   },
 
+"195358434": {
+    "Name":"Rokuhara Tandai",
+    "Health": 100000,
+    "MaxAbilities": 25,
+    "Itens": [
+    ]
+},
+
  "596497104": {
     "Name": "TyranT Assoc.",
     "Health": 100000,
@@ -277,26 +285,6 @@
     }
   },
 
-  "34792528": {
-    "Name": "Noinver Assoc.",
-    "Health": 1000,
-    "Itens": [
-      { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
-      { "Nome": "Susanoo" },
-      { "Nome": "Rinnegan" },
-      { "Nome": "Raio" },
-      { "Nome": "Susanoo Skeleton" },
-      { "Nome": "Flashstep" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [255, 255, 255 ], "Borda": [0, 0, 0] },
-      "Patente": { "Texto": [19, 23, 106], "Borda": [0, 0, 0] },
-      "Team": { "Texto": [19, 23, 106], "Borda": [0, 0, 0] }
-    }
-  },
-
   "32419373": {
     "Name": "龍 ✦ Super Novas ✦ 龍",
     "Health": 1000,
@@ -316,13 +304,16 @@
   },
 
  "908586004": {
-    "Name": "Ceifadores",
+    "Name": "Akatsuki",
     "Health": 500,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
       { "Nome": "Water Dragon" },
-      { "Nome": "Rasteira" }
+      { "Nome": "Rasteira" },
+      { "Nome": "Susanoo" },
+      { "Nome": "Raio" },
+      { "Nome": "Rinnegan" }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0 , 0], "Borda": [255, 255, 255] },
@@ -353,7 +344,7 @@
   "755862819": {
     "Name": "Viltrum Empire",
     "Health": 15000,
-    "MaxAbilities": 6,
+    "MaxAbilities": 8,
     "Itens": [
       { "Nome": "Flashstep" },
       { "Nome": "CorteCircular" },
@@ -391,10 +382,7 @@
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
-      { "Nome": "Raio" },
-      { "Nome": "Susanoo" },
-      { "Nome": "Rinnegan" }
+      { "Nome": "Rasteira" }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
