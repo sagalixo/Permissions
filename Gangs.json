@@ -341,7 +341,7 @@
   "755862819": {
     "Name": "Viltrum Empire",
     "Health": 15000,
-    "MaxAbilities": 6,
+    "MaxAbilities": 8,
     "Itens": [
       { "Nome": "Flashstep" },
       { "Nome": "CorteCircular" },
