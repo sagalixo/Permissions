@@ -318,7 +318,7 @@
       { "Nome": "Rinnegan" }
     ],
     "Colors": {
-      "Nome": { "Texto": [38, 0 , 11] "Borda": [0, 0, 0] },
+      "Nome": { "Texto": [38, 0 , 11], "Borda": [0, 0, 0] },
       "Patente": { "Texto": [38, 0 , 11], "Borda": [0, 0, 0] },
       "Team": { "Texto": [38, 0 , 11], "Borda": [0, 0, 0] }
     }
