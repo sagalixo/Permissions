@@ -318,9 +318,9 @@
       { "Nome": "Rinnegan" }
     ],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [107, 37, 1] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [107, 37, 1] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [107, 24, 1] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [107, 24, 1] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [107, 24, 1] }
     }
   },
  
