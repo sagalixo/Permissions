@@ -17,15 +17,6 @@
       { "Nome": "DemonBash" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
     ]
-  },
-
-"195358434": {
-    "Name":"Kabaneri Nobari",
-    "Health": 100000,
-    "MaxAbilities": 25,
-    "Itens": [
-      { "Nome": "Flashstep" }
-    ]
 },
 
  "596497104": {
@@ -46,6 +37,14 @@
        "Patente": { "Texto": [194, 53, 255], "Borda": [0, 0, 0] },
        "Team": { "Texto": [194, 53, 255], "Borda": [0, 0, 0] }
     }
+  },
+
+  "195358434": { 
+   "Name": "Kabaneri Nobari",
+   "Health": 100000,
+   "Itens":[
+    { "Nome": "Flashstep"}
+   ]
   },
 
   "34390641": {
