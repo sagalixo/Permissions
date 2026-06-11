@@ -24,6 +24,7 @@
     "Health": 100000,
     "MaxAbilities": 25,
     "Itens": [
+      { "Nome": "Flashstep" }
     ]
 },
 
