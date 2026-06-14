@@ -64,11 +64,12 @@
   },
 
   "392771630": {
-    "Name": "Heiwa",
+    "Name": "Syntax",
     "Health": 3000,
     "Itens": [
-      { "Nome": "Kokusen" },
-      { "Nome": "ChuteDeFogo" },
+      { "Nome": "CorteCircular" },
+      { "Nome": "Impulso Sombrio" },
+      { "Nome": "Susanoo Skeleton" },
       { "Nome": "Rasteira" },
       { "Nome": "Susanoo" },
       { "Nome": "Rinnegan" },
