@@ -312,11 +312,17 @@
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
+      { "Nome": "SusanooEspada" },
+      { "Nome": "CorteDoSol" },
+      { "Nome": "CorteCircular" },
+      { "Nome": "SlayerMark" },
+      { "Nome": "Colateral" },
       { "Nome": "Water Dragon" },
       { "Nome": "Rasteira" },
       { "Nome": "Susanoo" },
       { "Nome": "Raio" },
-      { "Nome": "Rinnegan" }
+      { "Nome": "Rinnegan" },
+      { "Nome": "Bang" }
     ],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [107, 24, 1] },
