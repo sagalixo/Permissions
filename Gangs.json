@@ -331,25 +331,6 @@
     }
   },
  
-  "825609349": {
-    "Name": "Os Hashiras",
-    "Health": 10000,
-    "Itens": [
-      { "Nome": "SlayerMark" },
-      { "Nome": "ChuteDeFogo" },
-      { "Nome": "Rasteira" },
-      { "Nome": "SusanooEspada" },
-      { "Nome": "CorteCircular" },
-      { "Nome": "CorteDoSol" },
-      { "Nome": "Raio" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [0, 0, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [0, 0, 255] }
-    }
-  },
-
   "755862819": {
     "Name": "Viltrum Empire",
     "Health": 15000,
