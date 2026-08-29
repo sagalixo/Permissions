@@ -154,8 +154,6 @@
       { "Nome": "Flashstep" },
       { "Nome": "Fire" },
       { "Nome": "Crimson Step" },
-      { "Nome": "Amaterasu" },
-      { "Nome": "Awakening" },
       { "Nome": "DoubleJump", "Ignore": "true", "Attributes": { "Height": 120 } }
     ]
   },
@@ -307,8 +305,9 @@
   },
 
  "908586004": {
-    "Name": "Esquadrão de Caçadores de Onis",
+    "Name": "Arcanjo's",
     "Health": 500,
+    "MaxAbilities": 8,
     "Itens": [
       { "Nome": "Kokusen" },
       { "Nome": "ChuteDeFogo" },
@@ -319,16 +318,12 @@
       { "Nome": "Colateral" },
       { "Nome": "Water Dragon" },
       { "Nome": "Rasteira" },
+      { "Nome": "Void Gate" },
       { "Nome": "Susanoo" },
       { "Nome": "Raio" },
       { "Nome": "Rinnegan" },
       { "Nome": "Bang" }
-    ],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [107, 24, 1] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [107, 24, 1] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [107, 24, 1] }
-    }
+    ]
   },
  
   "755862819": {
