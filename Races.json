@@ -1,7 +1,9 @@
 {
   "Hakaishin": {
-    "Type": "Group",
-    "GroupID": 274048442
+    "Type": "Permission",
+    "Permission": [
+    8674166330
+    ]
   },
   "Cell": {
     "Type": "Group",
