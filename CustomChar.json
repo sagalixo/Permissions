@@ -7,7 +7,7 @@
     "I3_NoPrime": {"PlayerTier": 1000},
     "Felasepic": {"PlayerTier": 1000},
     "Mittskiim": {"PlayerTier": 750},
-    "juliaywss": {"PlayerTier": 750},
+    "juliaywss": {"PlayerTier": 1000},
     "yurythgta": {"PlayerTier": 500},
     "Dark_shadow3251": {"PlayerTier": 500},
     "guibrosss": {"PlayerTier": 100},
@@ -26,7 +26,7 @@
 
     "Douma": {
       "Tier": 5000,
-      "Permission": [1663412321,4005875136,1569341667]
+      "Permission": [1663412321,4005875136,1569341667, 8674166330]
     },
     
     "Madara": {
@@ -66,7 +66,7 @@
 
     "Armin": {
       "Tier": "Locked",
-      "Permission": [2579583119, 3337736146, 1449978472, 1663412321, 1569341667]
+      "Permission": [2579583119, 3337736146, 1449978472, 1663412321, 1569341667, 8674166330]
     },
 
      "Diavolo": {
